@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="30.88mm" height="18.37mm" viewBox="0 0 30.88 18.37">
+<title>Astrolabe of al-Malik al-Ashraf, Yemen 1291 — wedge</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,13.37 L25.88,13.37 L25.88,10.812 L12.308,9.185 L10.22,6.86 L7.506,5 L5.418,5.697 L6.253,7.092 L5,10.859 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="ENGRAVE" id="ENGRAVE" fill="none" stroke="#000000" stroke-width="0.1">
+<desc>حفر خطوط - تدريج ومنحنيات</desc>
+<circle cx="7.297" cy="6.302" r="0.372"/>
+</g>
+</svg>

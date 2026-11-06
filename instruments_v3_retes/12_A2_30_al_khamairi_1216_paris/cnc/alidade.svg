@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="81mm" height="16.386mm" viewBox="0 0 81 16.386">
+<title>Astrolabe of al-Khamairi, Seville 1216 (Paris plate) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,8.193 L13.52,6.24 L37.975,6.24 L38.03,6.166"/>
+<path d="M43.695,8.193 A3.195,3.195 0 0 0 38.03,6.166"/>
+<path d="M43.695,8.193 L76,8.193 L67.48,10.145 L43.025,10.145 L42.97,10.22"/>
+<path d="M37.305,8.193 A3.195,3.195 0 0 0 42.97,10.22"/>
+<path d="M37.305,8.193 L13.52,8.193 L5,8.193"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="40.5" cy="8.193" r="1.3"/>
+<path d="M15.65,7.717 L22.75,7.717 L22.75,6.717 L15.65,6.717 Z"/>
+<path d="M58.25,9.669 L65.35,9.669 L65.35,8.669 L58.25,8.669 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,8.193 L76,8.193"/>
+</g>
+</svg>

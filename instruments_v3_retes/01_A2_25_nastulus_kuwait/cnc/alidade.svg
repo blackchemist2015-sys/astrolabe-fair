@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="178mm" height="25.11mm" viewBox="0 0 178 25.11">
+<title>Astrolabe of Nastulus (315/927) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,12.555 L25.16,7.935 L83.026,7.935 L83.156,7.759"/>
+<path d="M96.56,12.555 A7.56,7.56 0 0 0 83.156,7.759"/>
+<path d="M96.56,12.555 L173,12.555 L152.84,17.175 L94.974,17.175 L94.844,17.351"/>
+<path d="M81.44,12.555 A7.56,7.56 0 0 0 94.844,17.351"/>
+<path d="M81.44,12.555 L25.16,12.555 L5,12.555"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="89" cy="12.555" r="2.6"/>
+<path d="M30.2,10.745 L47,10.745 L47,9.745 L30.2,9.745 Z"/>
+<path d="M131,15.365 L147.8,15.365 L147.8,14.365 L131,14.365 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,12.555 L173,12.555"/>
+</g>
+</svg>

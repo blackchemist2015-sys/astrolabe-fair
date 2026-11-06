@@ -413,6 +413,29 @@ def ecliptic_circle(dm):
     return (0.0, yc), (P.R_cap + P.R_can) / 2
 
 
+def connect_islands(g, w, R):
+    """every loose piece of the rete is tied to the main body by a short
+    straight stem (a cut part must be one piece); very small loose bits are
+    dropped."""
+    from shapely.ops import nearest_points
+    for _ in range(30):
+        parts = list(g.geoms) if hasattr(g, 'geoms') else [g]
+        if len(parts) <= 1:
+            return g
+        parts.sort(key=lambda p: p.area, reverse=True)
+        main, rest = parts[0], parts[1:]
+        add = []
+        keep = [main]
+        for p in rest:
+            if p.area < (0.015 * R) ** 2:
+                continue
+            a, b = nearest_points(p, main)
+            add.append(LineString([a, b]).buffer(w / 2))
+            keep.append(p)
+        g = unary_union(keep + add).intersection(Point(0, 0).buffer(R, resolution=256))
+    return g
+
+
 def make_traced_rete(dm, spec, data, title=''):
     """Rete traced from the photograph (silver rete of the Hama astrolabe):
     scaled so that its outer ring is the Capricorn circle of the model; an
@@ -466,7 +489,33 @@ def make_rete(dm, spec, title='', rete_diam=None):
     skel = []  # (shapely line) skeleton for anchoring star stems
     skel.append(Point(0, 0).buffer(R - w_ring / 2).exterior)
     skel.append(Point(ec).buffer(er - w_ecl / 2).exterior)
-    if st == 'islamic':
+    manual = None
+    if spec.get('manual_rete', __import__('os').environ.get('MANUAL_RETE') == '1'):
+        try:
+            import rete_manual, rete_manual_lib as RL
+            manual = rete_manual.R.get(spec['id'])
+        except ImportError:
+            manual = None
+    if manual is not None:
+        from shapely import affinity as _aff
+        k_ = manual['k']
+        if manual.get('rim') is None:
+            geoms.remove(ring)
+            skel.pop(0)
+        else:
+            w_new = max(1.2, manual['rim'] / k_ * R)
+            geoms.remove(ring)
+            ring = outer.difference(Point(0, 0).buffer(R - w_new, resolution=256))
+            geoms.insert(0, ring)
+            skel[0] = Point(0, 0).buffer(R - w_new / 2).exterior
+            w_ring = w_new
+        tel = RL.transform(manual['elems'], k_, manual['rot'])
+        mg, _, _, bosses = RL.build({'elems': tel})
+        geoms.append(_aff.scale(mg, R, R, origin=(0, 0)))
+        for sk_ in RL.skeleton(tel):
+            skel.append(_aff.scale(sk_, R, R, origin=(0, 0)))
+        Dr._bosses = [((c[0] * R, c[1] * R), r * R) for c, r in bosses]
+    elif st == 'islamic':
         # meridian bar (lower) + lower equator arc + short equatorial bar
         b1 = LineString([(0, -R), (0, R)]).buffer(w_bar / 2)
         arc_pts = [polar(P.R_eq, a) for a in np.linspace(195, 345, 60)]
@@ -489,10 +538,13 @@ def make_rete(dm, spec, title='', rete_diam=None):
                 geoms.append(LineString([c0, (cx * 1.6, -0.42 * R * 1.6)]).buffer(w_stem / 2))
                 geoms.append(LineString([c0, (0, -0.42 * R)]).buffer(w_stem / 2))
     skel_u = unary_union(skel)
+    if manual is not None:
+        skel_u = unary_union([s_ for s_ in skel if True])
     # thumb knob (lower, inside the ring)
-    knob_c = polar(R - w_ring - 0.06 * R, -70)
-    geoms.append(Point(knob_c).buffer(0.05 * R))
-    geoms.append(LineString([knob_c, polar(R - w_ring / 2, -70)]).buffer(w_bar / 2))
+    if manual is None:
+        knob_c = polar(R - w_ring - 0.06 * R, -70)
+        geoms.append(Point(knob_c).buffer(0.05 * R))
+        geoms.append(LineString([knob_c, polar(R - w_ring / 2, -70)]).buffer(w_bar / 2))
 
     stars = select_stars(spec, dm, spec.get('stars', 20))
     star_info = []
@@ -527,6 +579,8 @@ def make_rete(dm, spec, title='', rete_diam=None):
             wv = leaf_W / 2 * math.sin(math.pi * t) ** 0.8 * (1 - 0.55 * t)
             lp.append((base[0] + ux * L * t - nx * wv, base[1] + uy * L * t - ny * wv))
         leaf = Polygon(lp).buffer(0)
+        if manual is not None and manual.get('ptr', 'leaf') != 'leaf':
+            leaf = RL.pointer(manual['ptr'], base, sp, leaf_W)
         # gently curved stem from anchor to the leaf base
         mid = ((ax_ + base[0]) / 2 + nx * 0.12 * dist, (ay_ + base[1]) / 2 + ny * 0.12 * dist)
         stem_pts = [((1 - t) ** 2 * ax_ + 2 * (1 - t) * t * mid[0] + t * t * base[0],
@@ -535,15 +589,19 @@ def make_rete(dm, spec, title='', rete_diam=None):
         if dist > L * 1.05:
             geoms.append(LineString(stem_pts).buffer(w_stem / 2))
             # small ornamental ring on long stems
-            if dist > 0.3 * R and st == 'islamic':
+            if dist > 0.3 * R and st == 'islamic' and manual is None:
                 m2 = stem_pts[10]
                 geoms.append(Point(m2).buffer(w_stem * 1.4).difference(Point(m2).buffer(w_stem * 0.6)))
         star_info.append((sp, (base, (ux, uy), L), ar, la, ra, de))
     rete = unary_union(geoms).buffer(0.25).buffer(-0.25)
     rete = rete.intersection(Point(0, 0).buffer(R, resolution=256))
+    rete = connect_islands(rete, w_stem, R)
     Dr.geom = rete
     Dr.shape(rete)
     Dr.hole((0, 0), dm.pin_d + 0.1)
+    for c_, r_ in getattr(Dr, '_bosses', []):
+        Dr.circle(c_, max(0.3, r_ * 0.3), 'ENGRAVE')
+    Dr.manual = manual is not None
     # ---- engraving on the ecliptic ring
     ns = numstyle(spec)
     if ns == 'triple':

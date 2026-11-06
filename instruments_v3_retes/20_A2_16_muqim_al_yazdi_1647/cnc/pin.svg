@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="42.4mm" height="51.463mm" viewBox="0 0 42.4 51.463">
+<title>Astrolabe of Muhammad Muqim al-Yazdi (1647) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M13.1,46.463 L29.3,46.463 L29.3,43.313 L25.7,42.413 L25.7,5 L16.7,5 L16.7,42.413 L13.1,43.313 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M16.7,20.75 L25.7,20.75 L25.7,12.65 L16.7,12.65 Z"/>
+<path d="M5,16.7 L37.4,16.7"/>
+</g>
+</svg>

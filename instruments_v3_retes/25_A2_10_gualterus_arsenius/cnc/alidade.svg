@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="164mm" height="23.851mm" viewBox="0 0 164 23.851">
+<title>Astrolabe after Gualterus Arsenius, ca. 1570 — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,11.925 L23.48,7.69 L76.523,7.69 L76.643,7.529"/>
+<path d="M88.93,11.925 A6.93,6.93 0 0 0 76.643,7.529"/>
+<path d="M88.93,11.925 L159,11.925 L140.52,16.16 L87.477,16.16 L87.357,16.322"/>
+<path d="M75.07,11.925 A6.93,6.93 0 0 0 87.357,16.322"/>
+<path d="M75.07,11.925 L23.48,11.925 L5,11.925"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="82" cy="11.925" r="2.39"/>
+<path d="M28.1,10.308 L43.5,10.308 L43.5,9.308 L28.1,9.308 Z"/>
+<path d="M120.5,14.543 L135.9,14.543 L135.9,13.543 L120.5,13.543 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,11.925 L159,11.925"/>
+</g>
+</svg>

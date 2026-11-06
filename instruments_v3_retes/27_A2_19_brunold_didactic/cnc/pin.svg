@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="22.744mm" height="26.612mm" viewBox="0 0 22.744 26.612">
+<title>Didactic astrolabe (M. Brunold) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M8.186,21.612 L14.558,21.612 L14.558,20.373 L13.142,20.019 L13.142,5 L9.602,5 L9.602,20.019 L8.186,20.373 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M9.602,11.195 L13.142,11.195 L13.142,8.009 L9.602,8.009 Z"/>
+<path d="M5,9.602 L17.744,9.602"/>
+</g>
+</svg>

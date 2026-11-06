@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="122.031mm" height="121.836mm" viewBox="0 0 122.031 121.836">
+<title>Astrolabe of Ahmad b. Muhammad an-Naqqash, Zaragoza 1079 — plate3a</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M59.045,5 L63.385,5 L63.385,6.53"/>
+<path d="M21.701,22.572 A56.58,56.58 0 1 0 63.385,6.53"/>
+<path d="M59.045,6.53 A56.578,56.578 0 0 0 21.701,22.572"/>
+<path d="M59.045,6.53 L59.045,5"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="61.215" cy="63.068" r="1.91"/>
+</g>
+</svg>

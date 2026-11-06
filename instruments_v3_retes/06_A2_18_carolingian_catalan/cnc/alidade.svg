@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="160mm" height="23.491mm" viewBox="0 0 160 23.491">
+<title>Catalan ("Carolingian") astrolabe, 10th c. — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,11.745 L23,7.62 L74.666,7.62 L74.782,7.463"/>
+<path d="M86.75,11.745 A6.75,6.75 0 0 0 74.782,7.463"/>
+<path d="M86.75,11.745 L155,11.745 L137,15.87 L85.334,15.87 L85.218,16.028"/>
+<path d="M73.25,11.745 A6.75,6.75 0 0 0 85.218,16.028"/>
+<path d="M73.25,11.745 L23,11.745 L5,11.745"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="80" cy="11.745" r="2.33"/>
+<path d="M27.5,10.183 L42.5,10.183 L42.5,9.183 L27.5,9.183 Z"/>
+<path d="M117.5,14.308 L132.5,14.308 L132.5,13.308 L117.5,13.308 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,11.745 L155,11.745"/>
+</g>
+</svg>

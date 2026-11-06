@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="263.163mm" height="265.371mm" viewBox="0 0 263.163 265.371">
+<title>Astrolabe of Abdalkarim al-Misri (650/1252) — plate3a</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M127.407,5 L137.207,5 L137.207,8.454"/>
+<path d="M5.053,149.632 A127.95,127.95 0 1 0 137.207,8.454"/>
+<path d="M127.407,8.454 A127.949,127.949 0 0 0 5.053,149.632"/>
+<path d="M127.407,8.454 L127.407,5"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="132.307" cy="136.31" r="4.25"/>
+</g>
+</svg>

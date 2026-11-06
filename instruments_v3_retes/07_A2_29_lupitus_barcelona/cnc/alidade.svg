@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="143mm" height="21.962mm" viewBox="0 0 143 21.962">
+<title>Astrolabe after Lupitus of Barcelona — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,10.981 L20.96,7.323 L66.77,7.323 L66.874,7.184"/>
+<path d="M77.485,10.981 A5.985,5.985 0 0 0 66.874,7.184"/>
+<path d="M77.485,10.981 L138,10.981 L122.04,14.638 L76.23,14.638 L76.126,14.778"/>
+<path d="M65.515,10.981 A5.985,5.985 0 0 0 76.126,14.778"/>
+<path d="M65.515,10.981 L20.96,10.981 L5,10.981"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="71.5" cy="10.981" r="2.075"/>
+<path d="M24.95,9.652 L38.25,9.652 L38.25,8.652 L24.95,8.652 Z"/>
+<path d="M104.75,13.31 L118.05,13.31 L118.05,12.31 L104.75,12.31 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,10.981 L138,10.981"/>
+</g>
+</svg>

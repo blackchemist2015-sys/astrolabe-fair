@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="20.9mm" height="27.712mm" viewBox="0 0 20.9 27.712">
+<title>The astrolabe of Hamid b. Ali al-Wasiti — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,19.715 L15.9,19.715 L15.9,7.725 L13.175,5 L7.725,5 L5,7.725 Z"/>
+<path d="M5.4,22.712 L15.5,22.712 L15.5,19.715 L5.4,19.715"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="10.45" cy="13.12" r="0.654"/>
+<circle cx="10.45" cy="16.718" r="0.327"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,19.715 L15.9,19.715"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="50mm" height="80mm" viewBox="0 0 50 80">
+<title>Astrolabe of the Marine Museum, Istanbul (619/1222) — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,60 L45,60 L45,15 L35,5 L15,5 L5,15 Z"/>
+<path d="M5.4,75 L44.6,75 L44.6,60 L5.4,60"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="25" cy="35.25" r="1.5"/>
+<circle cx="25" cy="48.75" r="0.75"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,60 L45,60"/>
+</g>
+</svg>
