@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="98mm" height="17.92mm" viewBox="0 0 98 17.92">
+<title>Persian astrolabe (1706) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M82.44,11.38 L52.129,11.38 L52.061,11.472 L51.8,11.76 L51.512,12.021 L51.2,12.253 L50.867,12.452 L50.515,12.619 L50.15,12.749 L49.773,12.844 L49.388,12.901 L49,12.92 L48.612,12.901 L48.227,12.844 L47.85,12.749 L47.485,12.619 L47.133,12.452 L46.8,12.253 L46.488,12.021 L46.2,11.76 L45.939,11.472 L45.707,11.16 L45.508,10.827 L45.341,10.475 L45.211,10.11 L45.116,9.733 L45.059,9.348 L45.04,8.96 L15.56,8.96 L5,8.96 L15.56,6.54 L45.871,6.54 L45.939,6.448 L46.2,6.16 L46.488,5.899 L46.8,5.667 L47.133,5.468 L47.485,5.301 L47.85,5.171 L48.227,5.076 L48.612,5.019 L49,5 L49.388,5.019 L49.773,5.076 L50.15,5.171 L50.515,5.301 L50.867,5.468 L51.2,5.667 L51.512,5.899 L51.8,6.16 L52.061,6.448 L52.293,6.76 L52.492,7.093 L52.659,7.445 L52.789,7.81 L52.884,8.187 L52.941,8.572 L52.96,8.96 L93,8.96 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="49" cy="8.96" r="1.4"/>
+<path d="M18.2,8.25 L27,8.25 L27,7.25 L18.2,7.25 Z"/>
+<path d="M71,10.67 L79.8,10.67 L79.8,9.67 L71,9.67 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,8.96 L93,8.96"/>
+</g>
+</svg>

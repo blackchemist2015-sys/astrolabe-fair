@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="159mm" height="23.41mm" viewBox="0 0 159 23.41">
+<title>The astrolabe of al-Khujandi (374/984) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M136.12,15.803 L84.799,15.803 L84.683,15.959 L84.241,16.446 L83.754,16.888 L83.225,17.28 L82.661,17.618 L82.066,17.9 L81.446,18.121 L80.808,18.281 L80.157,18.378 L79.5,18.41 L78.843,18.378 L78.192,18.281 L77.554,18.121 L76.934,17.9 L76.339,17.618 L75.775,17.28 L75.246,16.888 L74.759,16.446 L74.317,15.959 L73.925,15.43 L73.587,14.866 L73.305,14.271 L73.084,13.651 L72.924,13.013 L72.827,12.362 L72.795,11.705 L22.88,11.705 L5,11.705 L22.88,7.607 L74.201,7.607 L74.317,7.451 L74.759,6.964 L75.246,6.522 L75.775,6.13 L76.339,5.792 L76.934,5.51 L77.554,5.289 L78.192,5.129 L78.843,5.032 L79.5,5 L80.157,5.032 L80.808,5.129 L81.446,5.289 L82.066,5.51 L82.661,5.792 L83.225,6.13 L83.754,6.522 L84.241,6.964 L84.683,7.451 L85.075,7.98 L85.413,8.544 L85.695,9.139 L85.916,9.759 L86.076,10.397 L86.173,11.048 L86.205,11.705 L154,11.705 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="79.5" cy="11.705" r="2.315"/>
+<path d="M27.35,10.156 L42.25,10.156 L42.25,9.156 L27.35,9.156 Z"/>
+<path d="M116.75,14.254 L131.65,14.254 L131.65,13.254 L116.75,13.254 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,11.705 L154,11.705"/>
+</g>
+</svg>

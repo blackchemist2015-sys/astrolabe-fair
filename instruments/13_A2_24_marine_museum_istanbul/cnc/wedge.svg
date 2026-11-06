@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="54.4mm" height="31.6mm" viewBox="0 0 54.4 31.6">
+<title>Astrolabe of the Marine Museum, Istanbul (619/1222) — wedge</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,26.6 L49.4,26.6 L49.4,20 L20.54,15.8 L16.1,9.8 L10.328,5 L5.888,6.8 L7.664,10.4 L5,20.12 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="ENGRAVE" id="ENGRAVE" fill="none" stroke="#000000" stroke-width="0.1">
+<desc>حفر خطوط - تدريج ومنحنيات</desc>
+<circle cx="9.884" cy="8.36" r="0.96"/>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="42.88mm" height="25.12mm" viewBox="0 0 42.88 25.12">
+<title>Astrolabe of Abdalkarim al-Misri (650/1252) — wedge</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,20.12 L37.88,20.12 L37.88,15.5 L16.508,12.56 L13.22,8.36 L8.946,5 L5.658,6.26 L6.973,8.78 L5,15.584 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="ENGRAVE" id="ENGRAVE" fill="none" stroke="#000000" stroke-width="0.1">
+<desc>حفر خطوط - تدريج ومنحنيات</desc>
+<circle cx="8.617" cy="7.352" r="0.672"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="128mm" height="20.62mm" viewBox="0 0 128 20.62">
+<title>Astrolabe of Shamsaddin Muhammad Saffar (1477) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M108.84,13.555 L68.196,13.555 L68.105,13.679 L67.755,14.065 L67.369,14.415 L66.95,14.725 L66.503,14.993 L66.032,15.216 L65.541,15.391 L65.036,15.518 L64.52,15.594 L64,15.62 L63.48,15.594 L62.964,15.518 L62.459,15.391 L61.968,15.216 L61.497,14.993 L61.05,14.725 L60.631,14.415 L60.245,14.065 L59.895,13.679 L59.585,13.26 L59.317,12.813 L59.094,12.342 L58.919,11.851 L58.792,11.346 L58.716,10.83 L58.69,10.31 L19.16,10.31 L5,10.31 L19.16,7.065 L59.804,7.065 L59.895,6.941 L60.245,6.555 L60.631,6.205 L61.05,5.895 L61.497,5.627 L61.968,5.404 L62.459,5.229 L62.964,5.102 L63.48,5.026 L64,5 L64.52,5.026 L65.036,5.102 L65.541,5.229 L66.032,5.404 L66.503,5.627 L66.95,5.895 L67.369,6.205 L67.755,6.555 L68.105,6.941 L68.415,7.36 L68.683,7.807 L68.906,8.278 L69.081,8.769 L69.208,9.274 L69.284,9.79 L69.31,10.31 L123,10.31 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="64" cy="10.31" r="1.85"/>
+<path d="M22.7,9.187 L34.5,9.187 L34.5,8.187 L22.7,8.187 Z"/>
+<path d="M93.5,12.432 L105.3,12.432 L105.3,11.432 L93.5,11.432 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,10.31 L123,10.31"/>
+</g>
+</svg>

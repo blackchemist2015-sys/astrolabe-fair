@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="308mm" height="36.82mm" viewBox="0 0 308 36.82">
+<title>Astrolabe of Muhammad Muqim al-Yazdi (1647) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M267.24,26.605 L164.598,26.605 L164.366,26.917 L163.482,27.892 L162.507,28.776 L161.45,29.56 L160.321,30.237 L159.132,30.799 L157.893,31.243 L156.616,31.562 L155.314,31.755 L154,31.82 L152.686,31.755 L151.384,31.562 L150.107,31.243 L148.868,30.799 L147.679,30.237 L146.55,29.56 L145.493,28.776 L144.518,27.892 L143.634,26.917 L142.85,25.86 L142.173,24.731 L141.611,23.542 L141.167,22.303 L140.848,21.026 L140.655,19.724 L140.59,18.41 L40.76,18.41 L5,18.41 L40.76,10.215 L143.402,10.215 L143.634,9.903 L144.518,8.928 L145.493,8.044 L146.55,7.26 L147.679,6.583 L148.868,6.021 L150.107,5.577 L151.384,5.258 L152.686,5.065 L154,5 L155.314,5.065 L156.616,5.258 L157.893,5.577 L159.132,6.021 L160.321,6.583 L161.45,7.26 L162.507,8.044 L163.482,8.928 L164.366,9.903 L165.15,10.96 L165.827,12.089 L166.389,13.278 L166.833,14.517 L167.152,15.794 L167.345,17.096 L167.41,18.41 L303,18.41 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="154" cy="18.41" r="4.55"/>
+<path d="M49.7,14.812 L79.5,14.812 L79.5,13.812 L49.7,13.812 Z"/>
+<path d="M228.5,23.008 L258.3,23.008 L258.3,22.008 L228.5,22.008 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,18.41 L303,18.41"/>
+</g>
+</svg>

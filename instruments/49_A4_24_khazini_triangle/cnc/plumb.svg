@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="21.999mm" height="37.591mm" viewBox="0 0 21.999 37.591">
+<title>The instrument with the triangle (al-Khazini) — plumb</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M10.999,32.591 L16.196,13.991 L16.487,13.417 L16.716,12.815 L16.878,12.192 L16.973,11.554 L16.999,10.911 L16.956,10.268 L16.844,9.634 L16.665,9.015 L16.42,8.419 L16.113,7.853 L15.747,7.323 L15.327,6.835 L14.856,6.395 L14.341,6.008 L13.788,5.679 L13.202,5.41 L12.591,5.206 L11.962,5.069 L11.322,5 L10.677,5 L10.037,5.069 L9.408,5.206 L8.797,5.41 L8.211,5.679 L7.658,6.008 L7.143,6.395 L6.672,6.835 L6.252,7.323 L5.886,7.853 L5.579,8.419 L5.334,9.015 L5.155,9.634 L5.043,10.268 L5,10.911 L5.026,11.554 L5.121,12.192 L5.283,12.815 L5.512,13.417 L5.803,13.991 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="10.999" cy="8.591" r="0.72"/>
+</g>
+</svg>

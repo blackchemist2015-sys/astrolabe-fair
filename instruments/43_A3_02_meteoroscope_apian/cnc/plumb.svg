@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="19.999mm" height="32.993mm" viewBox="0 0 19.999 32.993">
+<title>Meteoroscope by Peter Apian — plumb</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M10,27.993 L14.33,12.493 L14.573,12.014 L14.763,11.512 L14.899,10.993 L14.977,10.462 L14.999,9.926 L14.963,9.39 L14.87,8.861 L14.721,8.346 L14.517,7.849 L14.261,7.377 L13.956,6.936 L13.606,6.529 L13.213,6.163 L12.784,5.84 L12.323,5.566 L11.835,5.342 L11.326,5.172 L10.802,5.058 L10.268,5 L9.731,5 L9.197,5.058 L8.673,5.172 L8.164,5.342 L7.676,5.566 L7.215,5.84 L6.786,6.163 L6.394,6.529 L6.043,6.936 L5.738,7.377 L5.482,7.849 L5.279,8.346 L5.129,8.861 L5.036,9.39 L5,9.926 L5.022,10.462 L5.101,10.993 L5.236,11.512 L5.426,12.014 L5.669,12.493 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="10" cy="7.993" r="0.6"/>
+</g>
+</svg>

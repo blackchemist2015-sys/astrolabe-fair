@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="220mm" height="28.9mm" viewBox="0 0 220 28.9">
+<title>Astrolabe after Erasmus Habermel, ca. 1600 — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M189.8,20.225 L117.468,20.225 L117.305,20.445 L116.682,21.132 L115.995,21.755 L115.25,22.307 L114.455,22.784 L113.616,23.181 L112.743,23.493 L111.844,23.718 L110.926,23.854 L110,23.9 L109.074,23.854 L108.156,23.718 L107.257,23.493 L106.384,23.181 L105.545,22.784 L104.75,22.307 L104.005,21.755 L103.318,21.132 L102.695,20.445 L102.143,19.7 L101.666,18.905 L101.269,18.066 L100.957,17.193 L100.732,16.294 L100.596,15.376 L100.55,14.45 L30.2,14.45 L5,14.45 L30.2,8.675 L102.532,8.675 L102.695,8.455 L103.318,7.768 L104.005,7.145 L104.75,6.593 L105.545,6.116 L106.384,5.719 L107.257,5.407 L108.156,5.182 L109.074,5.046 L110,5 L110.926,5.046 L111.844,5.182 L112.743,5.407 L113.616,5.719 L114.455,6.116 L115.25,6.593 L115.995,7.145 L116.682,7.768 L117.305,8.455 L117.857,9.2 L118.334,9.995 L118.731,10.834 L119.043,11.707 L119.268,12.606 L119.404,13.524 L119.45,14.45 L215,14.45 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="110" cy="14.45" r="3.2"/>
+<path d="M36.5,12.062 L57.5,12.062 L57.5,11.062 L36.5,11.062 Z"/>
+<path d="M162.5,17.837 L183.5,17.837 L183.5,16.837 L162.5,16.837 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,14.45 L215,14.45"/>
+</g>
+</svg>

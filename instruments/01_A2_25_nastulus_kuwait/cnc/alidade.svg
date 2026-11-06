@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="178mm" height="25.12mm" viewBox="0 0 178 25.12">
+<title>Astrolabe of Nastulus (315/927) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M152.84,17.18 L94.974,17.18 L94.844,17.356 L94.346,17.906 L93.796,18.404 L93.2,18.846 L92.564,19.227 L91.893,19.545 L91.195,19.794 L90.475,19.975 L89.741,20.084 L89,20.12 L88.259,20.084 L87.525,19.975 L86.805,19.794 L86.107,19.545 L85.436,19.227 L84.8,18.846 L84.204,18.404 L83.654,17.906 L83.156,17.356 L82.714,16.76 L82.333,16.124 L82.015,15.453 L81.766,14.755 L81.585,14.035 L81.476,13.301 L81.44,12.56 L25.16,12.56 L5,12.56 L25.16,7.94 L83.026,7.94 L83.156,7.764 L83.654,7.214 L84.204,6.716 L84.8,6.274 L85.436,5.893 L86.107,5.575 L86.805,5.326 L87.525,5.145 L88.259,5.036 L89,5 L89.741,5.036 L90.475,5.145 L91.195,5.326 L91.893,5.575 L92.564,5.893 L93.2,6.274 L93.796,6.716 L94.346,7.214 L94.844,7.764 L95.286,8.36 L95.667,8.996 L95.985,9.667 L96.234,10.365 L96.415,11.085 L96.524,11.819 L96.56,12.56 L173,12.56 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="89" cy="12.56" r="2.6"/>
+<path d="M30.2,10.75 L47,10.75 L47,9.75 L30.2,9.75 Z"/>
+<path d="M131,15.37 L147.8,15.37 L147.8,14.37 L131,14.37 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,12.56 L173,12.56"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="143mm" height="21.97mm" viewBox="0 0 143 21.97">
+<title>Astrolabe of Muhammad b. as-Saffar, Toledo 1029 — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M122.04,14.643 L76.23,14.643 L76.126,14.782 L75.732,15.217 L75.297,15.611 L74.825,15.961 L74.321,16.263 L73.79,16.514 L73.237,16.712 L72.668,16.855 L72.087,16.941 L71.5,16.97 L70.913,16.941 L70.332,16.855 L69.763,16.712 L69.21,16.514 L68.679,16.263 L68.175,15.961 L67.703,15.611 L67.268,15.217 L66.874,14.782 L66.524,14.31 L66.222,13.806 L65.971,13.275 L65.773,12.722 L65.63,12.153 L65.544,11.572 L65.515,10.985 L20.96,10.985 L5,10.985 L20.96,7.327 L66.77,7.327 L66.874,7.188 L67.268,6.753 L67.703,6.359 L68.175,6.009 L68.679,5.707 L69.21,5.456 L69.763,5.258 L70.332,5.115 L70.913,5.029 L71.5,5 L72.087,5.029 L72.668,5.115 L73.237,5.258 L73.79,5.456 L74.321,5.707 L74.825,6.009 L75.297,6.359 L75.732,6.753 L76.126,7.188 L76.476,7.66 L76.778,8.164 L77.029,8.695 L77.227,9.248 L77.37,9.817 L77.456,10.398 L77.485,10.985 L138,10.985 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="71.5" cy="10.985" r="2.075"/>
+<path d="M24.95,9.656 L38.25,9.656 L38.25,8.656 L24.95,8.656 Z"/>
+<path d="M104.75,13.314 L118.05,13.314 L118.05,12.314 L104.75,12.314 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,10.985 L138,10.985"/>
+</g>
+</svg>

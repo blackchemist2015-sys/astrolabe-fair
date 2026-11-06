@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="200mm" height="38mm" viewBox="0 0 200 38">
+<title>Instrument for determining the meridian (Ibn al-Haitham) — pointer</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M32.397,23.064 L31.934,24.358 L31.347,25.6 L30.641,26.778 L29.822,27.882 L28.899,28.899 L27.882,29.822 L26.778,30.641 L25.6,31.347 L24.358,31.934 L23.064,32.397 L21.731,32.731 L20.372,32.933 L19,33 L17.628,32.933 L16.269,32.731 L14.936,32.397 L13.642,31.934 L12.4,31.347 L11.222,30.641 L10.118,29.822 L9.101,28.899 L8.178,27.882 L7.359,26.778 L6.653,25.6 L6.066,24.358 L5.603,23.064 L5.269,21.731 L5.067,20.372 L5,19 L5.067,17.628 L5.269,16.269 L5.603,14.936 L6.066,13.642 L6.653,12.4 L7.359,11.222 L8.178,10.118 L9.101,9.101 L10.118,8.178 L11.222,7.359 L12.4,6.653 L13.642,6.066 L14.936,5.603 L16.269,5.269 L17.628,5.067 L19,5 L20.372,5.067 L21.731,5.269 L23.064,5.603 L24.358,6.066 L25.6,6.653 L26.778,7.359 L27.882,8.178 L28.899,9.101 L29.822,10.118 L30.641,11.222 L31.347,12.4 L31.934,13.642 L32.397,14.936 L32.49,15.307 L195,19 L32.49,22.693 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="19" cy="19" r="10.1"/>
+</g>
+</svg>

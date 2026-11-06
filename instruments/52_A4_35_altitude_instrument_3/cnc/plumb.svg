@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="23.999mm" height="42.19mm" viewBox="0 0 23.999 42.19">
+<title>Instrument for measuring altitudes no. 3 — plumb</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M11.999,37.19 L18.062,15.49 L18.402,14.82 L18.668,14.117 L18.858,13.39 L18.968,12.647 L18.999,11.896 L18.948,11.146 L18.818,10.406 L18.609,9.684 L18.324,8.989 L17.965,8.328 L17.539,7.71 L17.048,7.141 L16.499,6.628 L15.898,6.176 L15.252,5.792 L14.569,5.479 L13.856,5.241 L13.122,5.081 L12.375,5 L11.624,5 L10.876,5.081 L10.142,5.241 L9.429,5.479 L8.746,5.792 L8.101,6.176 L7.5,6.628 L6.951,7.141 L6.46,7.71 L6.033,8.328 L5.675,8.989 L5.39,9.684 L5.181,10.406 L5.05,11.146 L5,11.896 L5.03,12.647 L5.141,13.39 L5.33,14.117 L5.597,14.82 L5.937,15.49 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="11.999" cy="9.19" r="0.84"/>
+</g>
+</svg>

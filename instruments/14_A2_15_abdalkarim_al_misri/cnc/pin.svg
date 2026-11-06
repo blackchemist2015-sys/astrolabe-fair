@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="40.24mm" height="46.578mm" viewBox="0 0 40.24 46.578">
+<title>Astrolabe of Abdalkarim al-Misri (650/1252) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M12.56,41.578 L27.68,41.578 L27.68,38.638 L24.32,37.798 L24.32,5 L15.92,5 L15.92,37.798 L12.56,38.638 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M15.92,19.7 L24.32,19.7 L24.32,12.14 L15.92,12.14 Z"/>
+<path d="M5,15.92 L35.24,15.92"/>
+</g>
+</svg>

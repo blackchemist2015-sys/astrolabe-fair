@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="568mm" height="50mm" viewBox="0 0 568 50">
+<title>Astrolabe of the Marine Museum, Istanbul (619/1222) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M496.04,40 L297.196,40 L296.688,40.46 L295.111,41.629 L293.428,42.638 L291.654,43.478 L289.806,44.139 L287.902,44.616 L285.96,44.904 L284,45 L282.04,44.904 L280.098,44.616 L278.194,44.139 L276.346,43.478 L274.572,42.638 L272.889,41.629 L271.312,40.46 L269.858,39.142 L268.54,37.688 L267.371,36.111 L266.362,34.428 L265.522,32.654 L264.861,30.806 L264.384,28.902 L264.096,26.96 L264,25 L71.96,25 L5,25 L71.96,10 L270.804,10 L271.312,9.54 L272.889,8.371 L274.572,7.362 L276.346,6.522 L278.194,5.861 L280.098,5.384 L282.04,5.096 L284,5 L285.96,5.096 L287.902,5.384 L289.806,5.861 L291.654,6.522 L293.428,7.362 L295.111,8.371 L296.688,9.54 L298.142,10.858 L299.46,12.312 L300.629,13.889 L301.638,15.572 L302.478,17.346 L303.139,19.194 L303.616,21.098 L303.904,23.04 L304,25 L563,25 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="284" cy="25" r="6.05"/>
+<path d="M96.6,18 L136.6,18 L136.6,17 L96.6,17 Z"/>
+<path d="M431.4,33 L471.4,33 L471.4,32 L431.4,32 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,25 L563,25"/>
+</g>
+</svg>

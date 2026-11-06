@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="270mm" height="42mm" viewBox="0 0 270 42">
+<title>Instrument for determining the meridian (Ibn al-Haitham) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M265,12 L265,30 L148.221,30 L147.368,31.15 L146.314,32.314 L145.15,33.368 L143.889,34.304 L142.542,35.111 L141.123,35.782 L139.645,36.311 L138.121,36.693 L136.568,36.923 L135,37 L133.432,36.923 L131.879,36.693 L130.355,36.311 L128.877,35.782 L127.458,35.111 L126.111,34.304 L124.85,33.368 L123.686,32.314 L122.632,31.15 L121.779,30 L5,30 L5,12 L121.779,12 L122.632,10.85 L123.686,9.686 L124.85,8.632 L126.111,7.696 L127.458,6.889 L128.877,6.218 L130.355,5.689 L131.879,5.307 L133.432,5.077 L135,5 L136.568,5.077 L138.121,5.307 L139.645,5.689 L141.123,6.218 L142.542,6.889 L143.889,7.696 L145.15,8.632 L146.314,9.686 L147.368,10.85 L148.221,12 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="135" cy="21" r="3.1"/>
+</g>
+</svg>

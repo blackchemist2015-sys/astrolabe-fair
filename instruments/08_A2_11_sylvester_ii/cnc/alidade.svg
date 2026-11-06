@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="138mm" height="21.52mm" viewBox="0 0 138 21.52">
+<title>Astrolabe attributed to Pope Sylvester II — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M117.64,14.28 L73.552,14.28 L73.453,14.414 L73.073,14.833 L72.654,15.213 L72.2,15.549 L71.715,15.84 L71.204,16.082 L70.672,16.272 L70.124,16.409 L69.565,16.492 L69,16.52 L68.435,16.492 L67.876,16.409 L67.328,16.272 L66.796,16.082 L66.285,15.84 L65.8,15.549 L65.346,15.213 L64.927,14.833 L64.547,14.414 L64.211,13.96 L63.92,13.475 L63.678,12.964 L63.488,12.432 L63.351,11.884 L63.268,11.325 L63.24,10.76 L20.36,10.76 L5,10.76 L20.36,7.24 L64.448,7.24 L64.547,7.106 L64.927,6.687 L65.346,6.307 L65.8,5.971 L66.285,5.68 L66.796,5.438 L67.328,5.248 L67.876,5.111 L68.435,5.028 L69,5 L69.565,5.028 L70.124,5.111 L70.672,5.248 L71.204,5.438 L71.715,5.68 L72.2,5.971 L72.654,6.307 L73.073,6.687 L73.453,7.106 L73.789,7.56 L74.08,8.045 L74.322,8.556 L74.512,9.088 L74.649,9.636 L74.732,10.195 L74.76,10.76 L133,10.76 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="69" cy="10.76" r="2"/>
+<path d="M24.2,9.5 L37,9.5 L37,8.5 L24.2,8.5 Z"/>
+<path d="M101,13.02 L113.8,13.02 L113.8,12.02 L101,12.02 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,10.76 L133,10.76"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="195mm" height="26.65mm" viewBox="0 0 195 26.65">
+<title>Universal disc of Ibn Hudhail, Murcia 1252 — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M167.8,18.413 L104.079,18.413 L103.935,18.606 L103.387,19.212 L102.781,19.76 L102.125,20.247 L101.424,20.667 L100.686,21.016 L99.917,21.292 L99.124,21.49 L98.316,21.61 L97.5,21.65 L96.684,21.61 L95.876,21.49 L95.083,21.292 L94.314,21.016 L93.576,20.667 L92.875,20.247 L92.219,19.76 L91.613,19.212 L91.065,18.606 L90.578,17.95 L90.158,17.249 L89.809,16.511 L89.533,15.742 L89.335,14.949 L89.215,14.141 L89.175,13.325 L27.2,13.325 L5,13.325 L27.2,8.237 L90.921,8.237 L91.065,8.044 L91.613,7.438 L92.219,6.89 L92.875,6.403 L93.576,5.983 L94.314,5.634 L95.083,5.358 L95.876,5.16 L96.684,5.04 L97.5,5 L98.316,5.04 L99.124,5.16 L99.917,5.358 L100.686,5.634 L101.424,5.983 L102.125,6.403 L102.781,6.89 L103.387,7.438 L103.935,8.044 L104.422,8.7 L104.842,9.401 L105.191,10.139 L105.467,10.908 L105.665,11.701 L105.785,12.509 L105.825,13.325 L190,13.325 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="97.5" cy="13.325" r="2.825"/>
+<path d="M32.75,11.281 L51.25,11.281 L51.25,10.281 L32.75,10.281 Z"/>
+<path d="M143.75,16.369 L162.25,16.369 L162.25,15.369 L143.75,15.369 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,13.325 L190,13.325"/>
+</g>
+</svg>

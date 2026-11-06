@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="30.496mm" height="18.154mm" viewBox="0 0 30.496 18.154">
+<title>The astrolabe of al-Khujandi (374/984) — wedge</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,13.154 L25.496,13.154 L25.496,10.662 L12.174,9.077 L10.124,6.812 L7.46,5 L5.41,5.679 L6.23,7.038 L5,10.708 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="ENGRAVE" id="ENGRAVE" fill="none" stroke="#000000" stroke-width="0.1">
+<desc>حفر خطوط - تدريج ومنحنيات</desc>
+<circle cx="7.255" cy="6.268" r="0.362"/>
+</g>
+</svg>

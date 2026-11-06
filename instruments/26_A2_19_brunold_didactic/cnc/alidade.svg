@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="120mm" height="19.9mm" viewBox="0 0 120 19.9">
+<title>Didactic astrolabe (M. Brunold) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M101.8,12.975 L63.912,12.975 L63.826,13.09 L63.5,13.45 L63.14,13.776 L62.75,14.066 L62.333,14.316 L61.894,14.523 L61.437,14.687 L60.966,14.805 L60.485,14.876 L60,14.9 L59.515,14.876 L59.034,14.805 L58.563,14.687 L58.106,14.523 L57.667,14.316 L57.25,14.066 L56.86,13.776 L56.5,13.45 L56.174,13.09 L55.884,12.7 L55.634,12.283 L55.427,11.844 L55.263,11.387 L55.145,10.916 L55.074,10.435 L55.05,9.95 L18.2,9.95 L5,9.95 L18.2,6.925 L56.088,6.925 L56.174,6.81 L56.5,6.45 L56.86,6.124 L57.25,5.834 L57.667,5.584 L58.106,5.377 L58.563,5.213 L59.034,5.095 L59.515,5.024 L60,5 L60.485,5.024 L60.966,5.095 L61.437,5.213 L61.894,5.377 L62.333,5.584 L62.75,5.834 L63.14,6.124 L63.5,6.45 L63.826,6.81 L64.116,7.2 L64.366,7.617 L64.573,8.056 L64.737,8.513 L64.855,8.984 L64.926,9.465 L64.95,9.95 L115,9.95 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="60" cy="9.95" r="1.82"/>
+<path d="M21.5,8.938 L32.5,8.938 L32.5,7.937 L21.5,7.937 Z"/>
+<path d="M87.5,11.962 L98.5,11.962 L98.5,10.962 L87.5,10.962 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,9.95 L115,9.95"/>
+</g>
+</svg>

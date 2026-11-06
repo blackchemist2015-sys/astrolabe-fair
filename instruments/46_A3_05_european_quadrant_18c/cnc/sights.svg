@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="41.2mm" height="29.2mm" viewBox="0 0 41.2 29.2">
+<title>European quadrant, 18th c. — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,24.2 L17,24.2 L17,5 L5,5 Z"/>
+<path d="M24.2,24.2 L36.2,24.2 L36.2,5 L24.2,5 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="11" cy="10.76" r="0.72"/>
+<circle cx="30.2" cy="10.76" r="0.432"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,19.4 L17,19.4"/>
+<path d="M24.2,19.4 L36.2,19.4"/>
+</g>
+</svg>

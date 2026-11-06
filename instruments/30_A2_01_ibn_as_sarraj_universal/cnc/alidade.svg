@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="158mm" height="23.32mm" viewBox="0 0 158 23.32">
+<title>Universal astrolabe of Ibn as-Sarraj — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M135.24,15.73 L84.263,15.73 L84.148,15.885 L83.709,16.369 L83.225,16.808 L82.7,17.198 L82.14,17.534 L81.549,17.813 L80.933,18.033 L80.299,18.192 L79.653,18.288 L79,18.32 L78.347,18.288 L77.701,18.192 L77.067,18.033 L76.451,17.813 L75.86,17.534 L75.3,17.198 L74.775,16.808 L74.291,16.369 L73.852,15.885 L73.462,15.36 L73.126,14.8 L72.847,14.209 L72.627,13.593 L72.468,12.959 L72.372,12.313 L72.34,11.66 L22.76,11.66 L5,11.66 L22.76,7.59 L73.737,7.59 L73.852,7.435 L74.291,6.951 L74.775,6.512 L75.3,6.122 L75.86,5.786 L76.451,5.507 L77.067,5.287 L77.701,5.128 L78.347,5.032 L79,5 L79.653,5.032 L80.299,5.128 L80.933,5.287 L81.549,5.507 L82.14,5.786 L82.7,6.122 L83.225,6.512 L83.709,6.951 L84.148,7.435 L84.538,7.96 L84.874,8.52 L85.153,9.111 L85.373,9.727 L85.532,10.361 L85.628,11.007 L85.66,11.66 L153,11.66 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="79" cy="11.66" r="2.3"/>
+<path d="M27.2,10.125 L42,10.125 L42,9.125 L27.2,9.125 Z"/>
+<path d="M116,14.195 L130.8,14.195 L130.8,13.195 L116,13.195 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,11.66 L153,11.66"/>
+</g>
+</svg>

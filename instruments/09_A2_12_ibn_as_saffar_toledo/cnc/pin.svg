@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24.58mm" height="33.087mm" viewBox="0 0 24.58 33.087">
+<title>Astrolabe of Muhammad b. as-Saffar, Toledo 1029 — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M8.645,28.087 L15.935,28.087 L15.935,26.67 L14.315,26.265 L14.315,5 L10.265,5 L10.265,26.265 L8.645,26.67 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M10.265,12.088 L14.315,12.088 L14.315,8.442 L10.265,8.442 Z"/>
+<path d="M5,10.265 L19.58,10.265"/>
+</g>
+</svg>

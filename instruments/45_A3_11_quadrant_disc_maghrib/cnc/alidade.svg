@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="256mm" height="32.14mm" viewBox="0 0 256 32.14">
+<title>Quadrant disc from the Maghrib — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M221.48,22.835 L136.748,22.835 L136.557,23.093 L135.828,23.898 L135.023,24.627 L134.15,25.274 L133.218,25.833 L132.236,26.297 L131.213,26.663 L130.16,26.927 L129.085,27.087 L128,27.14 L126.915,27.087 L125.84,26.927 L124.787,26.663 L123.764,26.297 L122.782,25.833 L121.85,25.274 L120.977,24.627 L120.172,23.898 L119.443,23.093 L118.796,22.22 L118.237,21.288 L117.773,20.306 L117.407,19.283 L117.143,18.23 L116.983,17.155 L116.93,16.07 L34.52,16.07 L5,16.07 L34.52,9.305 L119.252,9.305 L119.443,9.047 L120.172,8.242 L120.977,7.513 L121.85,6.866 L122.782,6.307 L123.764,5.843 L124.787,5.477 L125.84,5.213 L126.915,5.053 L128,5 L129.085,5.053 L130.16,5.213 L131.213,5.477 L132.236,5.843 L133.218,6.307 L134.15,6.866 L135.023,7.513 L135.828,8.242 L136.557,9.047 L137.204,9.92 L137.763,10.852 L138.227,11.834 L138.593,12.857 L138.857,13.91 L139.017,14.985 L139.07,16.07 L251,16.07 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="128" cy="16.07" r="3.8"/>
+<path d="M41.9,13.188 L66.5,13.188 L66.5,12.188 L41.9,12.188 Z"/>
+<path d="M189.5,19.953 L214.1,19.953 L214.1,18.953 L189.5,18.953 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,16.07 L251,16.07"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="119mm" height="19.81mm" viewBox="0 0 119 19.81">
+<title>The astrolabe of Hamid b. Ali al-Wasiti — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M100.92,12.903 L63.376,12.903 L63.292,13.017 L62.968,13.373 L62.612,13.697 L62.225,13.983 L61.812,14.231 L61.377,14.437 L60.924,14.599 L60.457,14.716 L59.981,14.786 L59.5,14.81 L59.019,14.786 L58.543,14.716 L58.076,14.599 L57.623,14.437 L57.188,14.231 L56.775,13.983 L56.388,13.697 L56.032,13.373 L55.708,13.017 L55.422,12.63 L55.174,12.217 L54.968,11.782 L54.806,11.329 L54.689,10.862 L54.619,10.386 L54.595,9.905 L18.08,9.905 L5,9.905 L18.08,6.908 L55.624,6.908 L55.708,6.793 L56.032,6.437 L56.388,6.113 L56.775,5.827 L57.188,5.579 L57.623,5.373 L58.076,5.211 L58.543,5.094 L59.019,5.024 L59.5,5 L59.981,5.024 L60.457,5.094 L60.924,5.211 L61.377,5.373 L61.812,5.579 L62.225,5.827 L62.612,6.113 L62.968,6.437 L63.292,6.793 L63.578,7.18 L63.826,7.593 L64.032,8.028 L64.194,8.481 L64.311,8.948 L64.381,9.424 L64.405,9.905 L114,9.905 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="59.5" cy="9.905" r="1.715"/>
+<path d="M21.35,8.906 L32.25,8.906 L32.25,7.906 L21.35,7.906 Z"/>
+<path d="M86.75,11.904 L97.65,11.904 L97.65,10.904 L86.75,10.904 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,9.905 L114,9.905"/>
+</g>
+</svg>

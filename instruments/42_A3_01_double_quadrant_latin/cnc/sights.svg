@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="51.6mm" height="35.6mm" viewBox="0 0 51.6 35.6">
+<title>Double quadrant (European, 15th c.) — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,30.6 L21,30.6 L21,5 L5,5 Z"/>
+<path d="M30.6,30.6 L46.6,30.6 L46.6,5 L30.6,5 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="13" cy="12.68" r="0.96"/>
+<circle cx="38.6" cy="12.68" r="0.576"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,24.2 L21,24.2"/>
+<path d="M30.6,24.2 L46.6,24.2"/>
+</g>
+</svg>

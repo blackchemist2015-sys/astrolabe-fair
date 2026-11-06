@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="108mm" height="18.82mm" viewBox="0 0 108 18.82">
+<title>European astrolabe, ca. 1500 — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M91.24,12.105 L57.485,12.105 L57.409,12.208 L57.118,12.528 L56.798,12.819 L56.45,13.077 L56.079,13.299 L55.688,13.484 L55.28,13.63 L54.86,13.735 L54.432,13.799 L54,13.82 L53.568,13.799 L53.14,13.735 L52.72,13.63 L52.312,13.484 L51.921,13.299 L51.55,13.077 L51.202,12.819 L50.882,12.528 L50.591,12.208 L50.333,11.86 L50.111,11.489 L49.926,11.098 L49.78,10.69 L49.675,10.27 L49.611,9.842 L49.59,9.41 L16.76,9.41 L5,9.41 L16.76,6.715 L50.515,6.715 L50.591,6.612 L50.882,6.292 L51.202,6.001 L51.55,5.743 L51.921,5.521 L52.312,5.336 L52.72,5.19 L53.14,5.085 L53.568,5.021 L54,5 L54.432,5.021 L54.86,5.085 L55.28,5.19 L55.688,5.336 L56.079,5.521 L56.45,5.743 L56.798,6.001 L57.118,6.292 L57.409,6.612 L57.667,6.96 L57.889,7.331 L58.074,7.722 L58.22,8.13 L58.325,8.55 L58.389,8.978 L58.41,9.41 L103,9.41 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="54" cy="9.41" r="1.55"/>
+<path d="M19.7,8.562 L29.5,8.562 L29.5,7.562 L19.7,7.562 Z"/>
+<path d="M78.5,11.258 L88.3,11.258 L88.3,10.258 L78.5,10.258 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,9.41 L103,9.41"/>
+</g>
+</svg>

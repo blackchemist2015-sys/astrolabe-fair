@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="18.999mm" height="30.694mm" viewBox="0 0 18.999 30.694">
+<title>Quadrant of al-Mizzi (734/1334) — plumb</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M9.5,25.694 L13.397,11.744 L13.615,11.313 L13.787,10.861 L13.909,10.394 L13.98,9.916 L13.999,9.433 L13.967,8.951 L13.883,8.475 L13.748,8.011 L13.565,7.564 L13.335,7.14 L13.06,6.742 L12.745,6.376 L12.392,6.046 L12.006,5.756 L11.591,5.509 L11.152,5.308 L10.693,5.155 L10.221,5.052 L9.741,5 L9.258,5 L8.778,5.052 L8.306,5.155 L7.848,5.308 L7.408,5.509 L6.993,5.756 L6.607,6.046 L6.254,6.376 L5.939,6.742 L5.664,7.14 L5.434,7.564 L5.251,8.011 L5.116,8.475 L5.032,8.951 L5,9.433 L5.019,9.916 L5.091,10.394 L5.212,10.861 L5.384,11.313 L5.602,11.744 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="9.5" cy="7.694" r="0.54"/>
+</g>
+</svg>

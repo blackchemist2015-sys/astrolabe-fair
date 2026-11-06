@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="49mm" height="34mm" viewBox="0 0 49 34">
+<title>Quadrant of al-Mizzi (734/1334) — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,29 L20,29 L20,5 L5,5 Z"/>
+<path d="M29,29 L44,29 L44,5 L29,5 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="12.5" cy="12.2" r="0.9"/>
+<circle cx="36.5" cy="12.2" r="0.54"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,23 L20,23"/>
+<path d="M29,23 L44,23"/>
+</g>
+</svg>

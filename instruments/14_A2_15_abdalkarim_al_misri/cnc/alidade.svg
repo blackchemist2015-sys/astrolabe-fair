@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="288mm" height="35.02mm" viewBox="0 0 288 35.02">
+<title>Astrolabe of Abdalkarim al-Misri (650/1252) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M249.64,25.155 L153.886,25.155 L153.67,25.446 L152.846,26.356 L151.936,27.18 L150.95,27.912 L149.897,28.543 L148.787,29.068 L147.631,29.481 L146.441,29.78 L145.226,29.96 L144,30.02 L142.774,29.96 L141.559,29.78 L140.369,29.481 L139.213,29.068 L138.103,28.543 L137.05,27.912 L136.064,27.18 L135.154,26.356 L134.33,25.446 L133.598,24.46 L132.967,23.407 L132.442,22.297 L132.029,21.141 L131.73,19.951 L131.55,18.736 L131.49,17.51 L38.36,17.51 L5,17.51 L38.36,9.865 L134.114,9.865 L134.33,9.574 L135.154,8.664 L136.064,7.84 L137.05,7.108 L138.103,6.477 L139.213,5.952 L140.369,5.539 L141.559,5.24 L142.774,5.06 L144,5 L145.226,5.06 L146.441,5.24 L147.631,5.539 L148.787,5.952 L149.897,6.477 L150.95,7.108 L151.936,7.84 L152.846,8.664 L153.67,9.574 L154.402,10.56 L155.033,11.613 L155.558,12.723 L155.971,13.879 L156.27,15.069 L156.45,16.284 L156.51,17.51 L283,17.51 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="144" cy="17.51" r="4.25"/>
+<path d="M46.7,14.187 L74.5,14.187 L74.5,13.187 L46.7,13.187 Z"/>
+<path d="M213.5,21.832 L241.3,21.832 L241.3,20.832 L213.5,20.832 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,17.51 L283,17.51"/>
+</g>
+</svg>

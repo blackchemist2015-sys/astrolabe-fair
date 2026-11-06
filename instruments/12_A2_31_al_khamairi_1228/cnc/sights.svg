@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="26.3mm" height="36.487mm" viewBox="0 0 26.3 36.487">
+<title>Astrolabe of al-Khamairi 1228 with calendars — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,27.005 L21.3,27.005 L21.3,9.075 L17.225,5 L9.075,5 L5,9.075 Z"/>
+<path d="M5.4,31.487 L20.9,31.487 L20.9,27.005 L5.4,27.005"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="13.15" cy="17.143" r="0.978"/>
+<circle cx="13.15" cy="22.523" r="0.489"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,27.005 L21.3,27.005"/>
+</g>
+</svg>

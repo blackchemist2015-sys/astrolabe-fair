@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="173mm" height="24.67mm" viewBox="0 0 173 24.67">
+<title>Astrolabe of al-Khamairi 1228 with calendars — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M148.44,16.818 L92.297,16.818 L92.17,16.988 L91.687,17.522 L91.153,18.005 L90.575,18.434 L89.958,18.804 L89.307,19.112 L88.629,19.354 L87.931,19.529 L87.219,19.635 L86.5,19.67 L85.781,19.635 L85.069,19.529 L84.371,19.354 L83.693,19.112 L83.042,18.804 L82.425,18.434 L81.847,18.005 L81.313,17.522 L80.83,16.988 L80.401,16.41 L80.031,15.793 L79.723,15.142 L79.481,14.464 L79.306,13.766 L79.2,13.054 L79.165,12.335 L24.56,12.335 L5,12.335 L24.56,7.853 L80.703,7.853 L80.83,7.682 L81.313,7.148 L81.847,6.665 L82.425,6.236 L83.042,5.866 L83.693,5.558 L84.371,5.316 L85.069,5.141 L85.781,5.035 L86.5,5 L87.219,5.035 L87.931,5.141 L88.629,5.316 L89.307,5.558 L89.958,5.866 L90.575,6.236 L91.153,6.665 L91.687,7.148 L92.17,7.682 L92.599,8.26 L92.969,8.877 L93.277,9.528 L93.519,10.206 L93.694,10.904 L93.8,11.616 L93.835,12.335 L168,12.335 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="86.5" cy="12.335" r="2.525"/>
+<path d="M29.45,10.594 L45.75,10.594 L45.75,9.594 L29.45,9.594 Z"/>
+<path d="M127.25,15.076 L143.55,15.076 L143.55,14.076 L127.25,14.076 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,12.335 L168,12.335"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="17.1mm" height="21.537mm" viewBox="0 0 17.1 21.537">
+<title>Astrolabe of al-Khamairi, Seville 1216 (Paris plate) — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,14.585 L12.1,14.585 L12.1,6.775 L10.325,5 L6.775,5 L5,6.775 Z"/>
+<path d="M5.4,16.537 L11.7,16.537 L11.7,14.585 L5.4,14.585"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="8.55" cy="10.289" r="0.426"/>
+<circle cx="8.55" cy="12.632" r="0.3"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,14.585 L12.1,14.585"/>
+</g>
+</svg>

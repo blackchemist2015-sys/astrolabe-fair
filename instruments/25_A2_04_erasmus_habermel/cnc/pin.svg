@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32.68mm" height="37.558mm" viewBox="0 0 32.68 37.558">
+<title>Astrolabe after Erasmus Habermel, ca. 1600 — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M10.67,32.558 L22.01,32.558 L22.01,30.353 L19.49,29.723 L19.49,5 L13.19,5 L13.19,29.723 L10.67,30.353 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M13.19,16.025 L19.49,16.025 L19.49,10.355 L13.19,10.355 Z"/>
+<path d="M5,13.19 L27.68,13.19"/>
+</g>
+</svg>
