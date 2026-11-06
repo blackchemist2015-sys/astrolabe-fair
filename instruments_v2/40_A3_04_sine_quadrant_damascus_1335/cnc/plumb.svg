@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="18.099mm" height="28.624mm" viewBox="0 0 18.099 28.624">
+<title>Sine quadrant, Damascus 1335 — plumb</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M9.05,23.624 L12.557,11.069 L12.754,10.682 L12.908,10.275 L13.018,9.854 L13.082,9.424 L13.099,8.99 L13.07,8.556 L12.995,8.128 L12.874,7.71 L12.709,7.308 L12.501,6.926 L12.254,6.568 L11.971,6.239 L11.653,5.942 L11.305,5.68 L10.932,5.458 L10.536,5.277 L10.124,5.139 L9.699,5.047 L9.267,5 L8.832,5 L8.4,5.047 L7.975,5.139 L7.563,5.277 L7.168,5.458 L6.794,5.68 L6.446,5.942 L6.129,6.239 L5.845,6.568 L5.598,6.926 L5.391,7.308 L5.226,7.71 L5.105,8.128 L5.029,8.556 L5,8.99 L5.018,9.424 L5.081,9.854 L5.191,10.275 L5.345,10.682 L5.542,11.069 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="9.05" cy="7.424" r="0.486"/>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="23.392mm" height="28.385mm" viewBox="0 0 23.392 28.385">
+<title>Astrolabe of Ahmad b. Muhammad an-Naqqash, Zaragoza 1079 — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M8.348,23.385 L15.044,23.385 L15.044,22.083 L13.556,21.711 L13.556,5 L9.836,5 L9.836,21.711 L8.348,22.083 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M9.836,11.51 L13.556,11.51 L13.556,8.162 L9.836,8.162 Z"/>
+<path d="M5,9.836 L18.392,9.836"/>
+</g>
+</svg>

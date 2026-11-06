@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="37.8mm" height="55.175mm" viewBox="0 0 37.8 55.175">
+<title>Astrolabe of Abdalkarim al-Misri (650/1252) — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,42.53 L32.8,42.53 L32.8,11.95 L25.85,5 L11.95,5 L5,11.95 Z"/>
+<path d="M5.4,50.175 L32.4,50.175 L32.4,42.53 L5.4,42.53"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="18.9" cy="25.711" r="1.5"/>
+<circle cx="18.9" cy="34.885" r="0.75"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,42.53 L32.8,42.53"/>
+</g>
+</svg>

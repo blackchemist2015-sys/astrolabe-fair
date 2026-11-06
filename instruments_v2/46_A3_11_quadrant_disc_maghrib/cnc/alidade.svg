@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="256mm" height="32.125mm" viewBox="0 0 256 32.125">
+<title>Quadrant disc from the Maghrib — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,16.062 L34.52,9.297 L119.252,9.297 L119.443,9.04"/>
+<path d="M139.07,16.062 A11.07,11.07 0 0 0 119.443,9.04"/>
+<path d="M139.07,16.062 L251,16.062 L221.48,22.827 L136.748,22.827 L136.557,23.085"/>
+<path d="M116.93,16.062 A11.07,11.07 0 0 0 136.557,23.085"/>
+<path d="M116.93,16.062 L34.52,16.062 L5,16.062"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="128" cy="16.062" r="3.8"/>
+<path d="M41.9,13.18 L66.5,13.18 L66.5,12.18 L41.9,12.18 Z"/>
+<path d="M189.5,19.945 L214.1,19.945 L214.1,18.945 L189.5,18.945 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,16.062 L251,16.062"/>
+</g>
+</svg>

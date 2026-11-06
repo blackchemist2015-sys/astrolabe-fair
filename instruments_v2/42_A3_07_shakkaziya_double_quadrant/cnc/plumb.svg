@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="20.019mm" height="33.039mm" viewBox="0 0 20.019 33.039">
+<title>Shakkaziya double quadrant of al-Maridini — plumb</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M10.01,28.039 L14.348,12.508 L14.592,12.028 L14.783,11.525 L14.918,11.005 L14.997,10.473 L15.019,9.936 L14.983,9.399 L14.89,8.869 L14.74,8.353 L14.536,7.855 L14.28,7.382 L13.974,6.94 L13.623,6.532 L13.23,6.165 L12.8,5.842 L12.338,5.567 L11.849,5.343 L11.339,5.172 L10.813,5.058 L10.278,5 L9.741,5 L9.206,5.058 L8.68,5.172 L8.17,5.343 L7.681,5.567 L7.219,5.842 L6.789,6.165 L6.396,6.532 L6.045,6.94 L5.74,7.382 L5.483,7.855 L5.279,8.353 L5.129,8.869 L5.036,9.399 L5,9.936 L5.022,10.473 L5.101,11.005 L5.237,11.525 L5.427,12.028 L5.671,12.508 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="10.01" cy="7.999" r="0.601"/>
+</g>
+</svg>

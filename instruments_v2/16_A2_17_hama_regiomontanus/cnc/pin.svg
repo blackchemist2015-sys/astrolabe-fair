@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="27.388mm" height="32.483mm" viewBox="0 0 27.388 32.483">
+<title>Astrolabe from Hama 1299 (Regiomontanus) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M9.347,27.483 L18.041,27.483 L18.041,25.793 L16.109,25.31 L16.109,5 L11.279,5 L11.279,25.31 L9.347,25.793 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M11.279,13.453 L16.109,13.453 L16.109,9.105 L11.279,9.105 Z"/>
+<path d="M5,11.279 L22.388,11.279"/>
+</g>
+</svg>

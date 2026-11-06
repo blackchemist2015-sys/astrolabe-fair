@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="150mm" height="22.591mm" viewBox="0 0 150 22.591">
+<title>Astrolabe of al-Malik al-Ashraf, Yemen 1291 — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,11.296 L21.8,7.446 L70.021,7.446 L70.13,7.299"/>
+<path d="M81.3,11.296 A6.3,6.3 0 0 0 70.13,7.299"/>
+<path d="M81.3,11.296 L145,11.296 L128.2,15.146 L79.979,15.146 L79.87,15.292"/>
+<path d="M68.7,11.296 A6.3,6.3 0 0 0 79.87,15.292"/>
+<path d="M68.7,11.296 L21.8,11.296 L5,11.296"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="75" cy="11.296" r="2.375"/>
+<path d="M26,9.871 L40,9.871 L40,8.871 L26,8.871 Z"/>
+<path d="M110,13.721 L124,13.721 L124,12.721 L110,12.721 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,11.296 L145,11.296"/>
+</g>
+</svg>

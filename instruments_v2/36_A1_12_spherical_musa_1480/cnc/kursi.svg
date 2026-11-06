@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="123.9mm" height="64.4mm" viewBox="0 0 123.9 64.4">
+<title>Spherical astrolabe made by Musa, 1480 — kursi</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<circle cx="32.2" cy="32.2" r="27.2"/>
+<circle cx="100.2" cy="32.2" r="18.7"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="32.2" cy="32.2" r="16.32"/>
+<circle cx="32.2" cy="32.2" r="1.5"/>
+<circle cx="53.96" cy="32.2" r="2.448"/>
+<circle cx="43.08" cy="13.355" r="2.448"/>
+<circle cx="21.32" cy="13.355" r="2.448"/>
+<circle cx="10.44" cy="32.2" r="2.448"/>
+<circle cx="21.32" cy="51.045" r="2.448"/>
+<circle cx="43.08" cy="51.045" r="2.448"/>
+<circle cx="100.2" cy="32.2" r="11.22"/>
+<circle cx="100.2" cy="32.2" r="1.5"/>
+<circle cx="115.16" cy="32.2" r="1.683"/>
+<circle cx="107.68" cy="19.244" r="1.683"/>
+<circle cx="92.72" cy="19.244" r="1.683"/>
+<circle cx="85.24" cy="32.2" r="1.683"/>
+<circle cx="92.72" cy="45.156" r="1.683"/>
+<circle cx="107.68" cy="45.156" r="1.683"/>
+</g>
+</svg>

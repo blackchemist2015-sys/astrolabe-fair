@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="169mm" height="80.75mm" viewBox="0 0 169 80.75">
+<title>Astrolabe from Hama 1299 (Regiomontanus) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M84.52,5 L87.647,62.183 L87.873,62.29"/>
+<path d="M91.655,68.6 A7.155,7.155 0 0 0 87.873,62.29"/>
+<path d="M91.655,68.6 L164,68.6 L144.92,72.972 L90.154,72.972 L90.031,73.139"/>
+<path d="M77.345,68.6 A7.155,7.155 0 0 0 90.031,73.139"/>
+<path d="M77.345,68.6 L24.08,68.6 L5,68.6 L24.08,64.227 L78.846,64.227 L78.969,64.061"/>
+<path d="M83.104,61.582 A7.155,7.155 0 0 0 78.969,64.061"/>
+<path d="M83.104,61.582 L83.725,61.49 L84.52,5"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="84.5" cy="68.6" r="2.465"/>
+<path d="M28.85,66.914 L44.75,66.914 L44.75,65.914 L28.85,65.914 Z"/>
+<path d="M124.25,71.286 L140.15,71.286 L140.15,70.286 L124.25,70.286 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,68.6 L164,68.6"/>
+</g>
+</svg>

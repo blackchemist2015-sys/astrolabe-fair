@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24.04mm" height="21.444mm" viewBox="0 0 24.04 21.444">
+<title>The second astrolabe of Nastulus (mater only) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M8.51,16.444 L15.53,16.444 L15.53,15.079 L13.97,14.689 L13.97,5 L10.07,5 L10.07,14.689 L8.51,15.079 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M10.07,11.825 L13.97,11.825 L13.97,8.315 L10.07,8.315 Z"/>
+<path d="M5,10.07 L19.04,10.07"/>
+</g>
+</svg>

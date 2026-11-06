@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="26.308mm" height="31.118mm" viewBox="0 0 26.308 31.118">
+<title>The astrolabe of al-Khujandi (374/984) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M9.077,26.118 L17.231,26.118 L17.231,24.532 L15.419,24.079 L15.419,5 L10.889,5 L10.889,24.079 L9.077,24.532 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M10.889,12.928 L15.419,12.928 L15.419,8.851 L10.889,8.851 Z"/>
+<path d="M5,10.889 L21.308,10.889"/>
+</g>
+</svg>

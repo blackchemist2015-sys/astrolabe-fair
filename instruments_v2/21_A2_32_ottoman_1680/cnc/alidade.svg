@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="191mm" height="26.279mm" viewBox="0 0 191 26.279">
+<title>An Ottoman astrolabe (1680) — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,13.139 L26.72,8.162 L89.063,8.162 L89.204,7.972"/>
+<path d="M103.645,13.139 A8.145,8.145 0 0 0 89.204,7.972"/>
+<path d="M103.645,13.139 L186,13.139 L164.28,18.117 L101.937,18.117 L101.796,18.307"/>
+<path d="M87.355,13.139 A8.145,8.145 0 0 0 101.796,18.307"/>
+<path d="M87.355,13.139 L26.72,13.139 L5,13.139"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="95.5" cy="13.139" r="2.795"/>
+<path d="M32.15,11.151 L50.25,11.151 L50.25,10.151 L32.15,10.151 Z"/>
+<path d="M140.75,16.128 L158.85,16.128 L158.85,15.128 L140.75,15.128 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,13.139 L186,13.139"/>
+</g>
+</svg>

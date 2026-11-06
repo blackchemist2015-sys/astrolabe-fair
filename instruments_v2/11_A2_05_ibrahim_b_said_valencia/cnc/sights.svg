@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="26.6mm" height="36.975mm" viewBox="0 0 26.6 36.975">
+<title>Astrolabe of Ibrahim b. Said as-Sahli, Valencia 1086 — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,27.41 L21.6,27.41 L21.6,9.15 L17.45,5 L9.15,5 L5,9.15 Z"/>
+<path d="M5.4,31.975 L21.2,31.975 L21.2,27.41 L5.4,27.41"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="13.3" cy="17.367" r="0.996"/>
+<circle cx="13.3" cy="22.845" r="0.498"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,27.41 L21.6,27.41"/>
+</g>
+</svg>

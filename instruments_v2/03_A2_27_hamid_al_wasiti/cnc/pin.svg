@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="21.988mm" height="23.095mm" viewBox="0 0 21.988 23.095">
+<title>The astrolabe of Hamid b. Ali al-Wasiti — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M7.997,18.095 L13.991,18.095 L13.991,16.929 L12.659,16.596 L12.659,5 L9.329,5 L9.329,16.596 L7.997,16.929 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M9.329,10.828 L12.659,10.828 L12.659,7.831 L9.329,7.831 Z"/>
+<path d="M5,9.329 L16.988,9.329"/>
+</g>
+</svg>

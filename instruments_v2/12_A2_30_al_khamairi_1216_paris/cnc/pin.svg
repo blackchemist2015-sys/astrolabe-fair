@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="19mm" height="23.7mm" viewBox="0 0 19 23.7">
+<title>Astrolabe of al-Khamairi, Seville 1216 (Paris plate) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M7.25,18.7 L11.75,18.7 L11.75,17.825 L10.75,17.575 L10.75,5 L8.25,5 L8.25,17.575 L7.25,17.825 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M8.25,9.375 L10.75,9.375 L10.75,7.125 L8.25,7.125 Z"/>
+<path d="M5,8.25 L14,8.25"/>
+</g>
+</svg>

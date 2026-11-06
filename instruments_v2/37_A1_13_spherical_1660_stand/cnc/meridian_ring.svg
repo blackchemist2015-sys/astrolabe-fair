@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="274.694mm" height="16mm" viewBox="0 0 274.694 16">
+<title>Spherical astrolabe of 1660 on a stand — meridian_ring</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5.8,11 L269.694,11 L269.694,5 L5.8,5 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="5.8" cy="8" r="0.8"/>
+<circle cx="137.747" cy="8" r="0.8"/>
+<circle cx="10.198" cy="8" r="0.8"/>
+<circle cx="142.145" cy="8" r="0.8"/>
+<circle cx="14.596" cy="8" r="0.8"/>
+<circle cx="146.543" cy="8" r="0.8"/>
+<circle cx="18.995" cy="8" r="0.8"/>
+<circle cx="150.942" cy="8" r="0.8"/>
+<circle cx="23.393" cy="8" r="0.8"/>
+<circle cx="155.34" cy="8" r="0.8"/>
+<circle cx="27.791" cy="8" r="0.8"/>
+<circle cx="159.738" cy="8" r="0.8"/>
+<circle cx="32.189" cy="8" r="0.8"/>
+<circle cx="164.136" cy="8" r="0.8"/>
+<circle cx="36.588" cy="8" r="0.8"/>
+<circle cx="168.534" cy="8" r="0.8"/>
+<circle cx="40.986" cy="8" r="0.8"/>
+<circle cx="172.933" cy="8" r="0.8"/>
+<circle cx="45.384" cy="8" r="0.8"/>
+<circle cx="177.331" cy="8" r="0.8"/>
+<circle cx="49.782" cy="8" r="0.8"/>
+<circle cx="181.729" cy="8" r="0.8"/>
+<circle cx="54.181" cy="8" r="0.8"/>
+<circle cx="186.127" cy="8" r="0.8"/>
+<circle cx="58.579" cy="8" r="0.8"/>
+<circle cx="190.526" cy="8" r="0.8"/>
+<circle cx="62.977" cy="8" r="0.8"/>
+<circle cx="194.924" cy="8" r="0.8"/>
+<circle cx="67.375" cy="8" r="0.8"/>
+<circle cx="199.322" cy="8" r="0.8"/>
+<circle cx="71.773" cy="8" r="0.8"/>
+<circle cx="203.72" cy="8" r="0.8"/>
+</g>
+</svg>

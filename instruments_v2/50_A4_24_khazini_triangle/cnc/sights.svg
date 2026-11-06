@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="83.539mm" height="55.255mm" viewBox="0 0 83.539 55.255">
+<title>The instrument with the triangle (al-Khazini) — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,50.255 L33.284,50.255 L33.284,5 L5,5 Z"/>
+<path d="M50.255,50.255 L78.539,50.255 L78.539,5 L50.255,5 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="19.142" cy="18.576" r="1.25"/>
+<circle cx="64.397" cy="18.576" r="0.75"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,38.941 L33.284,38.941"/>
+<path d="M50.255,38.941 L78.539,38.941"/>
+</g>
+</svg>

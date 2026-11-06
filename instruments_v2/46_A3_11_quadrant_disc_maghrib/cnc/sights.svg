@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="34.6mm" height="49.975mm" viewBox="0 0 34.6 49.975">
+<title>Quadrant disc from the Maghrib — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,38.21 L29.6,38.21 L29.6,11.15 L23.45,5 L11.15,5 L5,11.15 Z"/>
+<path d="M5.4,44.975 L29.2,44.975 L29.2,38.21 L5.4,38.21"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="17.3" cy="23.327" r="1.476"/>
+<circle cx="17.3" cy="31.445" r="0.738"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,38.21 L29.6,38.21"/>
+</g>
+</svg>

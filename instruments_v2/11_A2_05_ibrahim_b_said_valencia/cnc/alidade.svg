@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="176mm" height="24.93mm" viewBox="0 0 176 24.93">
+<title>Astrolabe of Ibrahim b. Said as-Sahli, Valencia 1086 — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,12.465 L24.92,7.9 L82.097,7.9 L82.226,7.726"/>
+<path d="M95.47,12.465 A7.47,7.47 0 0 0 82.226,7.726"/>
+<path d="M95.47,12.465 L171,12.465 L151.08,17.03 L93.903,17.03 L93.774,17.204"/>
+<path d="M80.53,12.465 A7.47,7.47 0 0 0 93.774,17.204"/>
+<path d="M80.53,12.465 L24.92,12.465 L5,12.465"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="88" cy="12.465" r="2.69"/>
+<path d="M29.9,10.682 L46.5,10.682 L46.5,9.682 L29.9,9.682 Z"/>
+<path d="M129.5,15.247 L146.1,15.247 L146.1,14.247 L129.5,14.247 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,12.465 L171,12.465"/>
+</g>
+</svg>

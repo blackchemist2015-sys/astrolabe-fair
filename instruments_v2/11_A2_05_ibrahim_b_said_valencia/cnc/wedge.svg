@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32.896mm" height="19.504mm" viewBox="0 0 32.896 19.504">
+<title>Astrolabe of Ibrahim b. Said as-Sahli, Valencia 1086 — wedge</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,14.504 L27.896,14.504 L27.896,11.6 L13.014,9.752 L10.724,7.112 L7.748,5 L5.458,5.792 L6.374,7.376 L5,11.653 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="ENGRAVE" id="ENGRAVE" fill="none" stroke="#000000" stroke-width="0.1">
+<desc>حفر خطوط - تدريج ومنحنيات</desc>
+<circle cx="7.519" cy="6.478" r="0.422"/>
+</g>
+</svg>

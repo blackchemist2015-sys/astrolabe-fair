@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="28.36mm" height="29.789mm" viewBox="0 0 28.36 29.789">
+<title>Astrolabe of Nastulus (315/927) — pin</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M9.59,24.789 L18.77,24.789 L18.77,23.004 L16.73,22.494 L16.73,5 L11.63,5 L11.63,22.494 L9.59,23.004 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M11.63,13.925 L16.73,13.925 L16.73,9.335 L11.63,9.335 Z"/>
+<path d="M5,11.63 L23.36,11.63"/>
+</g>
+</svg>

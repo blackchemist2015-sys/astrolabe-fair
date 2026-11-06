@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="17.499mm" height="27.245mm" viewBox="0 0 17.499 27.245">
+<title>Sexagesimal sine quadrant from the Maghrib — plumb</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M8.75,22.245 L11.997,10.62 L12.18,10.261 L12.322,9.884 L12.424,9.495 L12.483,9.096 L12.499,8.694 L12.472,8.293 L12.402,7.896 L12.29,7.509 L12.138,7.137 L11.946,6.783 L11.717,6.452 L11.454,6.147 L11.16,5.872 L10.838,5.63 L10.492,5.424 L10.126,5.256 L9.745,5.129 L9.351,5.043 L8.951,5 L8.548,5 L8.148,5.043 L7.755,5.129 L7.373,5.256 L7.007,5.424 L6.661,5.63 L6.339,5.872 L6.045,6.147 L5.782,6.452 L5.554,6.783 L5.362,7.137 L5.209,7.509 L5.097,7.896 L5.027,8.293 L5,8.694 L5.016,9.096 L5.075,9.495 L5.177,9.884 L5.32,10.261 L5.502,10.62 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="8.75" cy="7.245" r="0.45"/>
+</g>
+</svg>

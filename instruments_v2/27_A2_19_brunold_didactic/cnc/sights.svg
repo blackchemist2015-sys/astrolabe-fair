@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="21mm" height="27.875mm" viewBox="0 0 21 27.875">
+<title>Didactic astrolabe (M. Brunold) — sights</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,19.85 L16,19.85 L16,7.75 L13.25,5 L7.75,5 L5,7.75 Z"/>
+<path d="M5.4,22.875 L15.6,22.875 L15.6,19.85 L5.4,19.85"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="10.5" cy="13.195" r="0.66"/>
+<circle cx="10.5" cy="16.825" r="0.33"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="BEND" id="BEND" fill="none" stroke="#ff9900" stroke-width="0.1">
+<desc>خط ثني</desc>
+<path d="M5,19.85 L16,19.85"/>
+</g>
+</svg>

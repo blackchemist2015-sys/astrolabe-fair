@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="283.705mm" height="287.36mm" viewBox="0 0 283.705 287.36">
+<title>Astrolabe of Muhammad Muqim al-Yazdi (1647) — plate1a</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M136.595,5 L147.095,5 L147.095,8.701"/>
+<path d="M17.198,202.792 A137.1,137.1 0 1 0 147.095,8.701"/>
+<path d="M136.595,8.701 A137.099,137.099 0 0 0 17.198,202.792"/>
+<path d="M136.595,8.701 L136.595,5"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="141.845" cy="145.7" r="4.55"/>
+</g>
+</svg>

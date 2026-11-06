@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="27.904mm" height="16.696mm" viewBox="0 0 27.904 16.696">
+<title>Astrolabe of Ahmad b. Muhammad an-Naqqash, Zaragoza 1079 — wedge</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,11.696 L22.904,11.696 L22.904,9.65 L11.266,8.348 L9.476,6.488 L7.148,5 L5.358,5.558 L6.074,6.674 L5,9.687 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="ENGRAVE" id="ENGRAVE" fill="none" stroke="#000000" stroke-width="0.1">
+<desc>حفر خطوط - تدريج ومنحنيات</desc>
+<circle cx="6.969" cy="6.042" r="0.298"/>
+</g>
+</svg>

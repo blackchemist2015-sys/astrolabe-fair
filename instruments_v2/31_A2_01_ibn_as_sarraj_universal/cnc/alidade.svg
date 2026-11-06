@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="158mm" height="23.311mm" viewBox="0 0 158 23.311">
+<title>Universal astrolabe of Ibn as-Sarraj — alidade</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M5,11.655 L22.76,7.585 L73.737,7.585 L73.852,7.43"/>
+<path d="M85.66,11.655 A6.66,6.66 0 0 0 73.852,7.43"/>
+<path d="M85.66,11.655 L153,11.655 L135.24,15.725 L84.263,15.725 L84.148,15.881"/>
+<path d="M72.34,11.655 A6.66,6.66 0 0 0 84.148,15.881"/>
+<path d="M72.34,11.655 L22.76,11.655 L5,11.655"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="79" cy="11.655" r="2.3"/>
+<path d="M27.2,10.12 L42,10.12 L42,9.12 L27.2,9.12 Z"/>
+<path d="M116,14.19 L130.8,14.19 L130.8,13.19 L116,13.19 Z"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="GUIDE" id="GUIDE" fill="none" stroke="#00aa00" stroke-width="0.1">
+<desc>خطوط مساعدة - لا تُحفر</desc>
+<path d="M5,11.655 L153,11.655"/>
+</g>
+</svg>

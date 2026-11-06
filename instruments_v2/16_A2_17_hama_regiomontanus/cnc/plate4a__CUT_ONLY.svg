@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="155.266mm" height="157.515mm" viewBox="0 0 155.266 157.515">
+<title>Astrolabe from Hama 1299 (Regiomontanus) — plate4a</title>
+<g inkscape:groupmode="layer" inkscape:label="CUT_OUTER" id="CUT_OUTER" fill="none" stroke="#ff0000" stroke-width="0.1">
+<desc>قص خارجي - المحيط الخارجي للقطعة</desc>
+<path d="M75.588,5 L81.223,5 L81.223,6.986"/>
+<path d="M18.048,38.483 A73.507,73.507 0 1 0 81.223,6.986"/>
+<path d="M75.588,6.986 A73.506,73.506 0 0 0 18.048,38.483"/>
+<path d="M75.588,6.986 L75.588,5"/>
+</g>
+<g inkscape:groupmode="layer" inkscape:label="CUT_INNER" id="CUT_INNER" fill="none" stroke="#ff00ff" stroke-width="0.1">
+<desc>قص داخلي - فتحات وثقوب وتفريغ</desc>
+<circle cx="78.405" cy="80.439" r="2.465"/>
+</g>
+</svg>

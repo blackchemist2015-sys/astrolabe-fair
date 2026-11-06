@@ -1,0 +1,426 @@
+[
+ {
+  "id": "A2.25",
+  "page": 86,
+  "title_ar": "أسطرلاب نسطولس (٣١٥هـ/٩٢٧م)",
+  "title_en": "Astrolabe of Nastulus (315/927)",
+  "folder": "01_A2_25_nastulus_kuwait",
+  "parts": 12
+ },
+ {
+  "id": "A2.26",
+  "page": 87,
+  "title_ar": "الأسطرلاب الثاني لنسطولس (الأم فقط)",
+  "title_en": "The second astrolabe of Nastulus (mater only)",
+  "folder": "02_A2_26_nastulus_cairo_mater",
+  "parts": 7
+ },
+ {
+  "id": "A2.27",
+  "page": 88,
+  "title_ar": "أسطرلاب حامد بن علي الواسطي",
+  "title_en": "The astrolabe of Hamid b. Ali al-Wasiti",
+  "folder": "03_A2_27_hamid_al_wasiti",
+  "parts": 12
+ },
+ {
+  "id": "A2.14",
+  "page": 89,
+  "title_ar": "أسطرلاب أحمد بن خلف (نحو ٣٤٠هـ/٩٥٠م)",
+  "title_en": "Astrolabe of Ahmad b. Khalaf (ca. 340/950)",
+  "folder": "04_A2_14_ahmad_b_khalaf",
+  "parts": 18
+ },
+ {
+  "id": "A2.28",
+  "page": 90,
+  "title_ar": "أسطرلاب الخجندي (٣٧٤هـ/٩٨٤م)",
+  "title_en": "The astrolabe of al-Khujandi (374/984)",
+  "folder": "05_A2_28_al_khujandi",
+  "parts": 17
+ },
+ {
+  "id": "A2.18",
+  "page": 91,
+  "title_ar": "الأسطرلاب الكتالوني (ق ١٠م) - أقدم أسطرلاب لاتيني",
+  "title_en": "Catalan (\"Carolingian\") astrolabe, 10th c.",
+  "folder": "06_A2_18_carolingian_catalan",
+  "parts": 14
+ },
+ {
+  "id": "A2.29",
+  "page": 92,
+  "title_ar": "أسطرلاب لوبيتوس البرشلوني (Sententiae astrolabii)",
+  "title_en": "Astrolabe after Lupitus of Barcelona",
+  "folder": "07_A2_29_lupitus_barcelona",
+  "parts": 14
+ },
+ {
+  "id": "A2.11",
+  "page": 94,
+  "title_ar": "الأسطرلاب المنسوب للبابا سلفستر الثاني (٣٨٠هـ/٩٩٠م)",
+  "title_en": "Astrolabe attributed to Pope Sylvester II",
+  "folder": "08_A2_11_sylvester_ii",
+  "parts": 14
+ },
+ {
+  "id": "A2.12",
+  "page": 95,
+  "title_ar": "أسطرلاب محمد بن الصفار - طليطلة (٤٢٠هـ/١٠٢٩م)",
+  "title_en": "Astrolabe of Muhammad b. as-Saffar, Toledo 1029",
+  "folder": "09_A2_12_ibn_as_saffar_toledo",
+  "parts": 26
+ },
+ {
+  "id": "A2.13",
+  "page": 96,
+  "title_ar": "أسطرلاب أحمد بن محمد النقاش - سرقسطة (٤٧٢هـ/١٠٧٩م)",
+  "title_en": "Astrolabe of Ahmad b. Muhammad an-Naqqash, Zaragoza 1079",
+  "folder": "10_A2_13_an_naqqash_zaragoza",
+  "parts": 20
+ },
+ {
+  "id": "A2.05",
+  "page": 97,
+  "title_ar": "أسطرلاب إبراهيم بن سعيد السهلي - بلنسية (٤٧٨هـ/١٠٨٦م)",
+  "title_en": "Astrolabe of Ibrahim b. Said as-Sahli, Valencia 1086",
+  "folder": "11_A2_05_ibrahim_b_said_valencia",
+  "parts": 26
+ },
+ {
+  "id": "A2.30",
+  "page": 98,
+  "title_ar": "أسطرلاب محمد بن الفتوح الخمائري - إشبيلية (٦١٣هـ/١٢١٦م) بصفيحة باريس",
+  "title_en": "Astrolabe of al-Khamairi, Seville 1216 (Paris plate)",
+  "folder": "12_A2_30_al_khamairi_1216_paris",
+  "parts": 19
+ },
+ {
+  "id": "A2.31",
+  "page": 100,
+  "title_ar": "أسطرلاب الخمائري (٦٢٦هـ/١٢٢٨م) بالتقويم الإسلامي والمسيحي",
+  "title_en": "Astrolabe of al-Khamairi 1228 with calendars",
+  "folder": "13_A2_31_al_khamairi_1228",
+  "parts": 20
+ },
+ {
+  "id": "A2.24",
+  "page": 101,
+  "title_ar": "أسطرلاب متحف البحرية بإسطنبول (٦١٩هـ/١٢٢٢م) - قطر ٥٦ سم",
+  "title_en": "Astrolabe of the Marine Museum, Istanbul (619/1222)",
+  "folder": "14_A2_24_marine_museum_istanbul",
+  "parts": 14
+ },
+ {
+  "id": "A2.15",
+  "page": 103,
+  "title_ar": "أسطرلاب عبد الكريم المصري (٦٥٠هـ/١٢٥٢م)",
+  "title_en": "Astrolabe of Abdalkarim al-Misri (650/1252)",
+  "folder": "15_A2_15_abdalkarim_al_misri",
+  "parts": 16
+ },
+ {
+  "id": "A2.17",
+  "page": 104,
+  "title_ar": "أسطرلاب حماة (٦٩٨هـ/١٢٩٩م) - أسطرلاب ريجيومونتانوس",
+  "title_en": "Astrolabe from Hama 1299 (Regiomontanus)",
+  "folder": "16_A2_17_hama_regiomontanus",
+  "parts": 18
+ },
+ {
+  "id": "A2.07",
+  "page": 105,
+  "title_ar": "أسطرلاب الملك الأشرف عمر بن يوسف - اليمن (٦٩٠هـ/١٢٩١م)",
+  "title_en": "Astrolabe of al-Malik al-Ashraf, Yemen 1291",
+  "folder": "17_A2_07_al_ashraf_yemen",
+  "parts": 18
+ },
+ {
+  "id": "A2.06",
+  "page": 106,
+  "title_ar": "أسطرلاب عربي (ق ٧هـ/١٣م) - المتحف البريطاني",
+  "title_en": "Arabic astrolabe, 13th c. (British Museum)",
+  "folder": "18_A2_06_british_museum_13c",
+  "parts": 16
+ },
+ {
+  "id": "A2.33",
+  "page": 107,
+  "title_ar": "أسطرلاب شمس الدين محمد صفار (٨٨٤هـ/١٤٧٧م)",
+  "title_en": "Astrolabe of Shamsaddin Muhammad Saffar (1477)",
+  "folder": "19_A2_33_muhammad_saffar_1477",
+  "parts": 13
+ },
+ {
+  "id": "A2.16",
+  "page": 108,
+  "title_ar": "أسطرلاب محمد مقيم اليزدي للشاه عباس الثاني (١٠٥٧هـ/١٦٤٧م)",
+  "title_en": "Astrolabe of Muhammad Muqim al-Yazdi (1647)",
+  "folder": "20_A2_16_muqim_al_yazdi_1647",
+  "parts": 18
+ },
+ {
+  "id": "A2.32",
+  "page": 109,
+  "title_ar": "أسطرلاب عثماني (١٠٩١هـ/١٦٨٠م)",
+  "title_en": "An Ottoman astrolabe (1680)",
+  "folder": "21_A2_32_ottoman_1680",
+  "parts": 17
+ },
+ {
+  "id": "A2.20",
+  "page": 110,
+  "title_ar": "أسطرلاب فارسي (١١١٨هـ/١٧٠٦م) - ملك المعهد",
+  "title_en": "Persian astrolabe (1706)",
+  "folder": "22_A2_20_persian_1706",
+  "parts": 14
+ },
+ {
+  "id": "A2.08",
+  "page": 111,
+  "title_ar": "أسطرلاب إسباني قوطي (ق ١٤م)",
+  "title_en": "Spanish-Gothic astrolabe, 14th c.",
+  "folder": "23_A2_08_spanish_gothic",
+  "parts": 15
+ },
+ {
+  "id": "A2.09",
+  "page": 112,
+  "title_ar": "أسطرلاب أوروبي (نحو ١٥٠٠م)",
+  "title_en": "European astrolabe, ca. 1500",
+  "folder": "24_A2_09_european_1500",
+  "parts": 11
+ },
+ {
+  "id": "A2.10",
+  "page": 113,
+  "title_ar": "أسطرلاب على طراز ورشة جوالتروس أرسينيوس (نحو ١٥٧٠م)",
+  "title_en": "Astrolabe after Gualterus Arsenius, ca. 1570",
+  "folder": "25_A2_10_gualterus_arsenius",
+  "parts": 19
+ },
+ {
+  "id": "A2.04",
+  "page": 114,
+  "title_ar": "أسطرلاب على طراز إراسموس هابرمل (نحو ١٦٠٠م) - أم باثني عشر ضلعاً",
+  "title_en": "Astrolabe after Erasmus Habermel, ca. 1600",
+  "folder": "26_A2_04_erasmus_habermel",
+  "parts": 19
+ },
+ {
+  "id": "A2.19",
+  "page": 115,
+  "title_ar": "أسطرلاب تعليمي (م. برونولد)",
+  "title_en": "Didactic astrolabe (M. Brunold)",
+  "folder": "27_A2_19_brunold_didactic",
+  "parts": 16
+ },
+ {
+  "id": "A2.03",
+  "page": 116,
+  "title_ar": "الصفيحة الزرقالية لمحمد بن هذيل - مرسية (٦٥٠هـ/١٢٥٢م)",
+  "title_en": "Universal disc of Ibn Hudhail, Murcia 1252",
+  "folder": "28_A2_03_saphea_ibn_hudhail",
+  "parts": 7
+ },
+ {
+  "id": "A2.34",
+  "page": 117,
+  "title_ar": "الصفيحة الشكازية لمحمد بن فتوح الخمائري - إشبيلية (٦١٣هـ/١٢١٦م)",
+  "title_en": "Universal disc of al-Khamairi, Seville 1216",
+  "folder": "29_A2_34_saphea_al_khamairi",
+  "parts": 7
+ },
+ {
+  "id": "A2.02",
+  "page": 118,
+  "title_ar": "الصفيحة الزرقالية حسب كتب المعرفة الفلكية لألفونسو العاشر",
+  "title_en": "Universal disc after the Libros del saber",
+  "folder": "30_A2_02_saphea_libros_del_saber",
+  "parts": 7
+ },
+ {
+  "id": "A2.01",
+  "page": 119,
+  "title_ar": "الأسطرلاب الشامل لابن السراج (ت ٧٢٩هـ/١٣٢٩م)",
+  "title_en": "Universal astrolabe of Ibn as-Sarraj",
+  "folder": "31_A2_01_ibn_as_sarraj_universal",
+  "parts": 17
+ },
+ {
+  "id": "A1.08",
+  "page": 123,
+  "title_ar": "الأسطرلاب الكري للنيريزي",
+  "title_en": "Spherical astrolabe of an-Nairizi",
+  "folder": "32_A1_08_spherical_an_nairizi",
+  "parts": 10
+ },
+ {
+  "id": "A1.09",
+  "page": 125,
+  "title_ar": "الأسطرلاب الكري للبيروني",
+  "title_en": "Spherical astrolabe of al-Biruni",
+  "folder": "33_A1_09_spherical_al_biruni",
+  "parts": 11
+ },
+ {
+  "id": "A1.10",
+  "page": 127,
+  "title_ar": "الأسطرلاب الكري للمراكشي",
+  "title_en": "Spherical astrolabe of al-Marrakushi",
+  "folder": "34_A1_10_spherical_al_marrakushi",
+  "parts": 11
+ },
+ {
+  "id": "A1.11",
+  "page": 129,
+  "title_ar": "الأسطرلاب الكري حسب كتب المعرفة الفلكية",
+  "title_en": "Spherical astrolabe after the Libros del saber",
+  "folder": "35_A1_11_spherical_libros_del_saber",
+  "parts": 11
+ },
+ {
+  "id": "A1.12",
+  "page": 131,
+  "title_ar": "أسطرلاب كري عربي (٨٨٥هـ/١٤٨٠م) صنعة موسى",
+  "title_en": "Spherical astrolabe made by Musa, 1480",
+  "folder": "36_A1_12_spherical_musa_1480",
+  "parts": 12
+ },
+ {
+  "id": "A1.13",
+  "page": 133,
+  "title_ar": "أسطرلاب كري (١٠٧٠هـ/١٦٦٠م) على حامل",
+  "title_en": "Spherical astrolabe of 1660 on a stand",
+  "folder": "37_A1_13_spherical_1660_stand",
+  "parts": 12
+ },
+ {
+  "id": "A1.14",
+  "page": 134,
+  "title_ar": "الأسطرلاب الخطي (عصا الطوسي)",
+  "title_en": "The linear astrolabe (staff of at-Tusi)",
+  "folder": "38_A1_14_linear_astrolabe_tusi",
+  "parts": 3
+ },
+ {
+  "id": "A3.03",
+  "page": 136,
+  "title_ar": "ربع المزي (٧٣٤هـ/١٣٣٤م)",
+  "title_en": "Quadrant of al-Mizzi (734/1334)",
+  "folder": "39_A3_03_quadrant_al_mizzi",
+  "parts": 4
+ },
+ {
+  "id": "A3.04",
+  "page": 137,
+  "title_ar": "ربع الجيب لعلي بن الشهاب - دمشق (٧٣٥هـ/١٣٣٥م)",
+  "title_en": "Sine quadrant, Damascus 1335",
+  "folder": "40_A3_04_sine_quadrant_damascus_1335",
+  "parts": 4
+ },
+ {
+  "id": "A3.09",
+  "page": 138,
+  "title_ar": "ربع الجيب الستيني من المغرب",
+  "title_en": "Sexagesimal sine quadrant from the Maghrib",
+  "folder": "41_A3_09_sexagesimal_quadrant_maghrib",
+  "parts": 3
+ },
+ {
+  "id": "A3.07",
+  "page": 139,
+  "title_ar": "الربع الشكازي المزدوج للماريديني",
+  "title_en": "Shakkaziya double quadrant of al-Maridini",
+  "folder": "42_A3_07_shakkaziya_double_quadrant",
+  "parts": 5
+ },
+ {
+  "id": "A3.01",
+  "page": 140,
+  "title_ar": "الربع المزدوج (نسخة أوروبية ق ١٥م)",
+  "title_en": "Double quadrant (European, 15th c.)",
+  "folder": "43_A3_01_double_quadrant_latin",
+  "parts": 5
+ },
+ {
+  "id": "A3.02",
+  "page": 141,
+  "title_ar": "الميتيوروسكوب لبيتر أبيان",
+  "title_en": "Meteoroscope by Peter Apian",
+  "folder": "44_A3_02_meteoroscope_apian",
+  "parts": 5
+ },
+ {
+  "id": "A3.10",
+  "page": 142,
+  "title_ar": "دائرة الدستور لعلي بن إبراهيم المطعم (٧٣٤هـ/١٣٣٤م)",
+  "title_en": "Dastur quadrant (734/1334)",
+  "folder": "45_A3_10_dastur_quadrant",
+  "parts": 6
+ },
+ {
+  "id": "A3.11",
+  "page": 143,
+  "title_ar": "قرص الأرباع المغربي",
+  "title_en": "Quadrant disc from the Maghrib",
+  "folder": "46_A3_11_quadrant_disc_maghrib",
+  "parts": 6
+ },
+ {
+  "id": "A3.05",
+  "page": 144,
+  "title_ar": "ربع أوروبي (ق ١٨م)",
+  "title_en": "European quadrant, 18th c.",
+  "folder": "47_A3_05_european_quadrant_18c",
+  "parts": 3
+ },
+ {
+  "id": "A4.25",
+  "page": 145,
+  "title_ar": "الدائرة الهندية",
+  "title_en": "Indian circle",
+  "folder": "48_A4_25_indian_circle",
+  "parts": 2
+ },
+ {
+  "id": "A4.21",
+  "page": 146,
+  "title_ar": "آلة استخراج خط نصف النهار لابن الهيثم",
+  "title_en": "Instrument for determining the meridian (Ibn al-Haitham)",
+  "folder": "49_A4_21_ibn_al_haitham_meridian",
+  "parts": 7
+ },
+ {
+  "id": "A4.24",
+  "page": 147,
+  "title_ar": "الآلة ذات المثلث للخازني",
+  "title_en": "The instrument with the triangle (al-Khazini)",
+  "folder": "50_A4_24_khazini_triangle",
+  "parts": 4
+ },
+ {
+  "id": "A4.33",
+  "page": 148,
+  "title_ar": "آلة قياس الارتفاع الأولى (السموأل المغربي)",
+  "title_en": "Instrument for measuring altitudes no. 1",
+  "folder": "51_A4_33_altitude_instrument_1",
+  "parts": 4
+ },
+ {
+  "id": "A4.34",
+  "page": 149,
+  "title_ar": "آلة قياس الارتفاع الثانية",
+  "title_en": "Instrument for measuring altitudes no. 2",
+  "folder": "52_A4_34_altitude_instrument_2",
+  "parts": 5
+ },
+ {
+  "id": "A4.35",
+  "page": 150,
+  "title_ar": "آلة قياس الارتفاع الثالثة",
+  "title_en": "Instrument for measuring altitudes no. 3",
+  "folder": "53_A4_35_altitude_instrument_3",
+  "parts": 5
+ }
+]
